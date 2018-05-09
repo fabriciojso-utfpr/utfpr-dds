@@ -10,9 +10,7 @@ public class SEToolTest {
     @Test
     public void testCriandoUmaFerramenta(){
         Project projeto = new Project("Sistema para alunos da UTFPR");
-        SETool seTool = new SETool("Slack", projeto);
-        
-        assertEquals(projeto, seTool.getProject());
+        SETool seTool = new SETool("Slack");
         assertEquals("Slack", seTool.getName());
        
     }

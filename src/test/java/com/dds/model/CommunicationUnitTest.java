@@ -31,7 +31,7 @@ public class CommunicationUnitTest {
     }
 
     private void criaFerramentas() {
-        this.slack = new SETool("Slack", this.projeto);
+        this.slack = new SETool("Slack");
     }
 
     private void criaSite() {

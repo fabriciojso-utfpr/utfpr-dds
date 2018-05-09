@@ -48,11 +48,12 @@ public class ComunicacaoRealTest {
         
         SlackScrapper scrapper = new SlackScrapper(fabrica);
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        /*Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String json = gson.toJson(scrapper.build());
         
         FileWriter fileWriter = new FileWriter("canal.json");
         fileWriter.write(json);
         fileWriter.close();
+*/
     }
 }

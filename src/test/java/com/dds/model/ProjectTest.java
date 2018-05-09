@@ -9,7 +9,7 @@ public class ProjectTest {
   
     public static Project getProject(){
          Project projeto = new Project("Sistema para alunos da UTFPR");
-         SETool seTool = new SETool("Slack", projeto);
+         SETool seTool = new SETool("Slack");
          
          return projeto;
     }
