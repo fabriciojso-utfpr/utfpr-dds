@@ -1,0 +1,3484 @@
+{
+  "DADBEHZ0A": {
+    "id": "DADBEHZ0A",
+    "nome": "direct_DADBEHZ0A",
+    "hosts": {
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {
+      "671f3fdd422c16365b2b45d4a20f3be6": {
+        "type": "message",
+        "ts": "1524703107.000090",
+        "user": "UACLBUPNC",
+        "text": "keykeykeykeykey"
+      },
+      "0480e5b076a1dad8cd1db6a0b3f30f3f": {
+        "type": "message",
+        "ts": "1524703074.000277",
+        "user": "UACLBUPNC",
+        "text": "And there my dear Wini..."
+      },
+      "62cd5bbba0832c0cd772181278f0f8ce": {
+        "type": "message",
+        "ts": "1524703091.000208",
+        "user": "UAD7P0ECT",
+        "text": "There what?"
+      },
+      "9cec20f3542f6f3dd45729c8a8f3246a": {
+        "type": "message",
+        "ts": "1524702956.000058",
+        "user": "UAD7P0ECT",
+        "text": "Fala ae Paes e Amor"
+      },
+      "32cd9b9b6632eafeb2298d5033bcc745": {
+        "type": "message",
+        "ts": "1524703185.000209",
+        "user": "UAD7P0ECT",
+        "text": ":old_key::old_key::old_key::old_key::old_key:"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD8YEVGB": {
+    "id": "DAD8YEVGB",
+    "nome": "direct_DAD8YEVGB",
+    "hosts": {
+      "UAD560FD2": "UAD560FD2"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQUQW7K": {
+    "id": "DACQUQW7K",
+    "nome": "direct_DACQUQW7K",
+    "hosts": {
+      "UAD8HUYLB": "UAD8HUYLB"
+    },
+    "mensagens": {
+      "b5c18af7ad6f35b16037e9db9bc26e75": {
+        "type": "message",
+        "ts": "1524705799.000092",
+        "user": "UAD8B843V",
+        "text": "o que foi definido sobre ele no processo?"
+      },
+      "6b6d43cee2b3ae57c1432cfc847fb71f": {
+        "type": "message",
+        "ts": "1524705790.000055",
+        "user": "UAD8B843V",
+        "text": "se estiver no processo, como template, sim."
+      },
+      "a6389d4736fc94b2d78d6fdff7f35f45": {
+        "type": "message",
+        "ts": "1524705811.000250",
+        "user": "UAD8B843V",
+        "text": "o que foi definido precisa ser seguido neste instante.."
+      },
+      "816a1749e467f2e12ea241959147f8d8": {
+        "type": "message",
+        "ts": "1524705773.000060",
+        "user": "UAD8HUYLB",
+        "text": "Professor, nosso processo começa com o escopo do projeto, vamos precisar elaborar ele inteiro?"
+      },
+      "bcc1b49f56c84401dd769c6b441d28d4": {
+        "type": "message",
+        "ts": "1524705843.000020",
+        "user": "UAD8HUYLB",
+        "text": "começamos o processo com a elaboração do escopo"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAGSLTFTN": {
+    "id": "DAGSLTFTN",
+    "nome": "direct_DAGSLTFTN",
+    "hosts": {
+      "UAGH954BT": "UAGH954BT"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAH0YSCCT": {
+    "id": "DAH0YSCCT",
+    "nome": "direct_DAH0YSCCT",
+    "hosts": {
+      "UAGH954BT": "UAGH954BT"
+    },
+    "mensagens": {
+      "4364beba1e060f080fcce7c19482b854": {
+        "type": "message",
+        "ts": "1525273845.000499",
+        "text": "Hi, \u003c@UAECVL9DM\u003e! :wave: Thanks for turning on Drive notifications in Slack. I\u0027ll update you about new comments, access requests, and files shared with you.\n\nSome handy shortcuts:\n• Type \"＊off＊\" or \"＊stop＊\" to turn off notifications.\n• Type \"＊on＊\" or \"＊start＊\" to turn notifications back on.\n• Type \"＊help＊\" for assistance.\n• Type \"＊feedback＊\" followed by whatever\u0027s on your mind to share your comments with Drive\u0027s customer service team. See Google\u0027s \u003chttps://www.google.com/intl/en/policies/privacy/|Privacy Policy\u003e and \u003chttps://www.google.com/intl/en/policies/terms/|Terms of Service\u003e.\n\nYou can also manage your \u003chttps://drive.google.com/drive?action\u003dnotifications|notification settings\u003e on Google Drive.",
+        "subtype": "bot_message",
+        "username": "Google Drive"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAE8BTBKQ": {
+    "id": "DAE8BTBKQ",
+    "nome": "direct_DAE8BTBKQ",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD8HF29Z": {
+    "id": "DAD8HF29Z",
+    "nome": "direct_DAD8HF29Z",
+    "hosts": {
+      "USLACKBOT": "USLACKBOT"
+    },
+    "mensagens": {
+      "3cf4e8ac8f73fc5141474558bfb2221c": {
+        "type": "message",
+        "ts": "1524703772.000161",
+        "user": "USLACKBOT",
+        "text": "\u003c@UAD7P0ECT\u003e archived the private channel \u003chttps://ddsutfpr.slack.com/archives/GAECY8RQF|arv\u003e"
+      },
+      "51efcb71181b72bc38e2f9df4eb7af23": {
+        "type": "message",
+        "ts": "1524703403.000072",
+        "user": "USLACKBOT",
+        "text": "Hello, I’m Slackbot. I try to be helpful. (But I’m still just a bot. Sorry!) *Type something* and hit Enter to send your message."
+      },
+      "c13d7d939a7385057d3a0f02c047cb41": {
+        "type": "message",
+        "ts": "1524703410.000175",
+        "user": "USLACKBOT",
+        "text": "If you\u0027re not sure how to do something in Slack, *just type your question below*. \r\n\r\nOr press these buttons to learn about the following topics:",
+        "subtype": "bot_message",
+        "username": "slackbot"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD3WFHQC": {
+    "id": "DAD3WFHQC",
+    "nome": "direct_DAD3WFHQC",
+    "hosts": {
+      "UADDFJLE9": "UADDFJLE9"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GADDCHC2H": {
+    "id": "GADDCHC2H",
+    "nome": "grupo1",
+    "hosts": {
+      "UAD7P0ECT": "UAD7P0ECT",
+      "UAECVL9DM": "UAECVL9DM",
+      "UAD8B843V": "UAD8B843V",
+      "UAECW859V": "UAECW859V",
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {
+      "fa3a695a968e7dd00491b224d00314fb": {
+        "type": "message",
+        "ts": "1525284251.000040",
+        "user": "UAD7P0ECT",
+        "text": "Faço "
+      },
+      "4f3c52200bcd5a1062764add3c228047": {
+        "type": "message",
+        "ts": "1525294633.000531",
+        "user": "UAD7P0ECT",
+        "text": "Como estamos?"
+      },
+      "709e8cfe80a8362712c79c8e5fd88fb2": {
+        "type": "message",
+        "ts": "1525283360.000780",
+        "user": "UAECW859V",
+        "text": "mas se eu vou mandar da view pra controller pensei que so era com post ou get"
+      },
+      "6558baf9b4a7b2f4154525199a81eca3": {
+        "type": "message",
+        "ts": "1525305260.000282",
+        "user": "UAD7P0ECT",
+        "text": "Ah, acabei de atualizar uns detalhes da interface"
+      },
+      "e2b9d2d0f92e2852e836376782b85949": {
+        "type": "message",
+        "ts": "1525363796.000025",
+        "user": "UAD7P0ECT",
+        "text": "O que acontece afinal?"
+      },
+      "63a656aa4775e28589a24c3dfe3e9eb8": {
+        "type": "message",
+        "ts": "1525284137.000640",
+        "user": "UAECW859V",
+        "text": "\u003c@UAECW859V\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAECW859V/FAH7W9MS6/image.png|erro01\u003e",
+        "subtype": "file_share",
+        "username": "renatinhu_barbosa"
+      },
+      "400fd8d8bd7b6af10a1481ba29e06e0e": {
+        "type": "message",
+        "ts": "1525283605.000274",
+        "user": "UAECVL9DM",
+        "text": "Quero entender esse teu framework kkk"
+      },
+      "ae16f40731fad2763dcf8dd9c47cbcdb": {
+        "type": "message",
+        "ts": "1525374786.000320",
+        "user": "UAD7P0ECT",
+        "text": "Voltei pro último que tava funcionando, que fiz ontem"
+      },
+      "f90e365333c1af0485ed1708b5862a55": {
+        "type": "message",
+        "ts": "1525291728.000065",
+        "user": "UAD7P0ECT",
+        "text": "Hue"
+      },
+      "4eac07fcd9dccece4d3614eecb337d6f": {
+        "type": "message",
+        "ts": "1525284401.000722",
+        "user": "UAECW859V",
+        "text": "\u003c@UAECW859V\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAECW859V/FAGGWK34Y/image.png|focado\u003e",
+        "subtype": "file_share",
+        "username": "renatinhu_barbosa"
+      },
+      "d0fcf4c5f9701c19a0b211a44353f9b3": {
+        "type": "message",
+        "ts": "1525283889.000044",
+        "user": "UAD7P0ECT",
+        "text": "Aí é só você fazer mais ou menos como o foreach do fim da função de relatório de mensagens pra pegar os dados todos dos emails, separar eles em vetores e tal, e jogar só esses dados pra view, pra só varrer os vetores e exibir, sem precisar fazer consulta"
+      },
+      "82a2a330e76b9a4182c67a2822ad601a": {
+        "type": "message",
+        "ts": "1525295285.000516",
+        "user": "UAECW859V",
+        "text": "arquitetura e tal... tem até um documento de teste, que se formos seguir a risca teriamos de gerar"
+      },
+      "6d158e52106971e839b684daeb48b95e": {
+        "type": "message",
+        "ts": "1525283423.000777",
+        "user": "UAD7P0ECT",
+        "text": "Mas qual é a dúvida?"
+      },
+      "37b781ad967d8b6d4790543c933250da": {
+        "type": "message",
+        "ts": "1525289209.000324",
+        "user": "UAD7P0ECT",
+        "text": "Feito"
+      },
+      "36bef09ff5f4cd59022bdb75c4baa1d8": {
+        "type": "message",
+        "ts": "1525296762.000278",
+        "user": "UAD7P0ECT",
+        "text": "Se o Amilton sumiu, tomemos o nosso como final"
+      },
+      "99dfcf67e027993f22546e17cc75785e": {
+        "type": "message",
+        "ts": "1525283347.000805",
+        "user": "UAECW859V",
+        "text": "eu uso a view(nomedaviel,dado)"
+      },
+      "243d2eaa94379ac464864bb5faf0c847": {
+        "type": "message",
+        "ts": "1525363266.000321",
+        "user": "UAECW859V",
+        "text": "Mas vc trabalhou em cima da última versão e commitou?"
+      },
+      "7017d6db0cae00ca2b003093426f1f51": {
+        "type": "message",
+        "ts": "1525284025.000070",
+        "user": "UAD7P0ECT",
+        "text": "Se tiver sem parâmetro traz tudo"
+      },
+      "7c47f9f18b014ec9ca125b4ed7a8edf1": {
+        "type": "message",
+        "ts": "1525283983.000638",
+        "user": "UAECW859V",
+        "text": "eu vi la"
+      },
+      "5fb8e5280b600265176627d4d8e4f88d": {
+        "type": "message",
+        "ts": "1525283658.000616",
+        "user": "UAECVL9DM",
+        "text": "$list_consulta_dominio \u003d All_Emails::make()-\u0026gt;all();\nQuero converter isso para usar com um where, como faz?"
+      },
+      "2dcff48a2da8227a7f2918d2f3511dad": {
+        "type": "message",
+        "ts": "1525374768.000730",
+        "user": "UAD7P0ECT",
+        "text": "Bom, corrigi. Tive que remover seus commits, \u003c@UAECVL9DM\u003e"
+      },
+      "a6f2425fad9ce80eb716132acf0728aa": {
+        "type": "message",
+        "ts": "1525283725.000525",
+        "user": "UAD7P0ECT",
+        "text": "Dá na mesma"
+      },
+      "06b6e6005762133f7cf777708471b966": {
+        "type": "message",
+        "ts": "1525284243.000779",
+        "user": "UAD7P0ECT",
+        "text": "Pode deixar"
+      },
+      "d80758b1a77d8a019fe8250e264177cc": {
+        "type": "message",
+        "ts": "1525291685.000500",
+        "user": "UAECW859V",
+        "text": "conferido"
+      },
+      "d376ebf4359c17af42f7a124b64da23f": {
+        "type": "message",
+        "ts": "1525291726.000290",
+        "user": "UAD7P0ECT",
+        "text": "Itaú "
+      },
+      "97b29a55729b485e6d3ddec58b584e68": {
+        "type": "message",
+        "ts": "1525284006.000871",
+        "user": "UAECW859V",
+        "text": "só tem que fazer um if(isset la pra nao tentar puxar antes quando carrega sem parametro"
+      },
+      "80b9307fe08ad0792299e18f6a6e4288": {
+        "type": "message",
+        "ts": "1525283718.000533",
+        "user": "UAD7P0ECT",
+        "text": "Qual das duas preferir"
+      },
+      "719817b2f6547f6179daf0153373b7ed": {
+        "type": "message",
+        "ts": "1525284293.000521",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAD7P0ECT/FAH7YAL66/image_uploaded_from_ios.jpg|Foca nisso\u003e",
+        "subtype": "file_share",
+        "username": "vsoares"
+      },
+      "9be93b7d287fa9074c82dd30a63b61e4": {
+        "type": "message",
+        "ts": "1525283595.000389",
+        "user": "UAECVL9DM",
+        "text": "Como que faço pra usar ele pra filtrar um campo?"
+      },
+      "863c4dce3ab9eec59abaf61c9426f150": {
+        "type": "message",
+        "ts": "1525283417.000444",
+        "user": "UAD7P0ECT",
+        "text": "E é"
+      },
+      "d59e76d1b8dfba6a8ab8dfab2a9bbdfc": {
+        "type": "message",
+        "ts": "1525296743.000210",
+        "user": "UAD7P0ECT",
+        "text": "Tá funcionando, não tá?"
+      },
+      "7da9609b0e5689f141f84deb7e2dc54c": {
+        "type": "message",
+        "ts": "1525296808.000279",
+        "user": "UAD7P0ECT",
+        "text": "Se formos fazer, um txt com a documentação, mas acho que tá meio em cima"
+      },
+      "8d0e855da3c1a17a28c37a2d82ce259b": {
+        "type": "message",
+        "ts": "1525296818.000259",
+        "user": "UAD7P0ECT",
+        "text": "E a funcionalidade de gerar o txt "
+      },
+      "a52a9a743c38bc13499571ebcd874155": {
+        "type": "message",
+        "ts": "1525295244.000557",
+        "user": "UAECW859V",
+        "text": "to perdido"
+      },
+      "e318132e2d2aaa3f7a4534b8e4b047e4": {
+        "type": "message",
+        "ts": "1525284229.000477",
+        "user": "UAECW859V",
+        "text": "acho que é so inicializar elas entao"
+      },
+      "7b556514c90be8d62ee52ada8799607a": {
+        "type": "message",
+        "ts": "1525291746.000070",
+        "user": "UAD7P0ECT",
+        "text": "O meu não foi atualizado desde domingo, acho"
+      },
+      "2f01a5603dbacd6accddefa4187a2611": {
+        "type": "message",
+        "ts": "1525397573.000108",
+        "user": "UAECW859V",
+        "text": "Good job at al"
+      },
+      "b42ebcecfb1c6845f1d85bb3b9b40bca": {
+        "type": "message",
+        "ts": "1525302595.000047",
+        "user": "UAD7P0ECT",
+        "text": "E exportação do segundo relatório pra TXT já no git também"
+      },
+      "213caad3addfa9e71b33eb84851b7911": {
+        "type": "message",
+        "ts": "1525283426.000431",
+        "user": "UAECW859V",
+        "text": "pois é"
+      },
+      "3bf4fddea72a0c37ab4703a76f2ada31": {
+        "type": "message",
+        "ts": "1525362619.000398",
+        "user": "UAECVL9DM",
+        "text": "\u003c@UAECW859V\u003e sim puxei a última versão e trabalhei em cima dela. Funcionando certinho"
+      },
+      "325cc8c0cc85601e06240684b630d27a": {
+        "type": "message",
+        "ts": "1525291707.000643",
+        "user": "UAD7P0ECT",
+        "text": "Gerúndio perdido"
+      },
+      "57937e3741651acb8e2c48a96158bad5": {
+        "type": "message",
+        "ts": "1525283432.000533",
+        "user": "UAECW859V",
+        "text": "e como vou passar se nao tenho formulario?"
+      },
+      "f12f2bc475d205c322a3a209db442a55": {
+        "type": "message",
+        "ts": "1525284029.000638",
+        "user": "UAD7P0ECT",
+        "text": "E a data só filtra"
+      },
+      "0816ed49cbc1087fb56c887a8a3cff45": {
+        "type": "message",
+        "ts": "1525291719.000031",
+        "user": "UAECW859V",
+        "text": "e qual o banco oficial?"
+      },
+      "53d43a7e18b174984539603004dfd343": {
+        "type": "message",
+        "ts": "1525361228.000457",
+        "user": "UAECW859V",
+        "text": "aqui nao está funcionando os relatorios nao"
+      },
+      "439bb102831f20f568b5f91c30e89dc7": {
+        "type": "message",
+        "ts": "1525284108.000789",
+        "user": "UAD7P0ECT",
+        "text": "Que erro?"
+      },
+      "cf9f2d1f31b6cd623e4055fa47a84b74": {
+        "type": "message",
+        "ts": "1525363237.000813",
+        "user": "UAECW859V",
+        "text": "Não aparece. Não aparece os emails"
+      },
+      "c94d1ed4f032c29d54b60db280b54f4e": {
+        "type": "message",
+        "ts": "1525284247.000515",
+        "user": "UAECW859V",
+        "text": "tu faz?"
+      },
+      "e496052018e10e1cf45674e5d71f332b": {
+        "type": "message",
+        "ts": "1525283700.000617",
+        "user": "UAD7P0ECT",
+        "text": "\u003chttps://vinibs.github.io/luvi/#dbclasswhere\u003e"
+      },
+      "078317a96d38c1ff323f07d2cc18dcca": {
+        "type": "message",
+        "ts": "1525397560.000186",
+        "user": "UAECW859V",
+        "text": "Então é isso ai"
+      },
+      "65308b72134480a1cf64254d3e1b2239": {
+        "type": "message",
+        "ts": "1525283558.000244",
+        "user": "UAECVL9DM",
+        "text": "Só não consegui usar o método where() da tua classe DB \u003c@UAD7P0ECT\u003e"
+      },
+      "527885e7a732f33bd2056e509a2cd9a0": {
+        "type": "message",
+        "ts": "1525397585.000157",
+        "user": "UAECW859V",
+        "text": "Et Al?\""
+      },
+      "a394aca8a0235a29fcd81850ca28b8cd": {
+        "type": "message",
+        "ts": "1525286598.000103",
+        "user": "UAD7P0ECT",
+        "text": "Já tá corrigido"
+      },
+      "93515efe1262c867d1087e6e47b2a2b8": {
+        "type": "message",
+        "ts": "1525283944.000572",
+        "user": "UAD7P0ECT",
+        "text": "Na interface, não que esteja funcional"
+      },
+      "779a544e2475761d1e81d7f1b04bf23c": {
+        "type": "message",
+        "ts": "1525284096.000475",
+        "user": "UAECW859V",
+        "text": "aqui ele deu erro"
+      },
+      "0cae2d811b89afea87375c4d5810fa43": {
+        "type": "message",
+        "ts": "1525296749.000054",
+        "user": "UAD7P0ECT",
+        "text": "O que nos temos "
+      },
+      "8fc5604aa03fe2b02ea4868932d43a9e": {
+        "type": "message",
+        "ts": "1525284252.000062",
+        "user": "UAECW859V",
+        "text": "ia fazer, mas ok"
+      },
+      "e4db668b4cd5fed44a83c0ce7e2f4236": {
+        "type": "message",
+        "ts": "1525397557.000079",
+        "user": "UAECW859V",
+        "text": "Acho que o Vini já enviou."
+      },
+      "8742ccda123fe36e3960450477baec8b": {
+        "type": "message",
+        "ts": "1525397584.000076",
+        "user": "UAD7P0ECT",
+        "text": "Yep, tá enviado com o modelo do banco antigo, que tá funcionando"
+      },
+      "dbfb24e51377d5c2aeb6e21bd745a175": {
+        "type": "message",
+        "ts": "1525296737.000260",
+        "user": "UAD7P0ECT",
+        "text": "O banco, bom"
+      },
+      "b02e809f863e3be0e3228aad58912184": {
+        "type": "message",
+        "ts": "1525284232.000369",
+        "user": "UAECW859V",
+        "text": "com alguma coisa"
+      },
+      "77295a97f8324a1875feeae28b8b267c": {
+        "type": "message",
+        "ts": "1525283677.000675",
+        "user": "UAD7P0ECT",
+        "text": "make()-\u0026gt;select()-\u0026gt;where()..."
+      },
+      "c5fa7a2680a338391147fc606b9c0e0c": {
+        "type": "message",
+        "ts": "1525283333.000518",
+        "user": "UAECW859V",
+        "text": "da controller pra view"
+      },
+      "fe500a42d37079f056cb37c2b56df4cf": {
+        "type": "message",
+        "ts": "1525296789.000520",
+        "user": "UAD7P0ECT",
+        "text": "Documentação, só falta alguns detalhes na documentação de código "
+      },
+      "7d6a2990f924e19b902a2e48b0e8f3fb": {
+        "type": "message",
+        "ts": "1525283464.000548",
+        "user": "UAECVL9DM",
+        "text": "Eu fiz uma versão aqui com o banco atualizado, com a tabela \"domain\" pra testar, e fumegou beleza. Mas fica a que vcs preferirem"
+      },
+      "a014b6646271267505d44784c83f6350": {
+        "type": "message",
+        "ts": "1525283731.000778",
+        "user": "UAD7P0ECT",
+        "text": "Renato, pode fazer o pull"
+      },
+      "f1c79f16acd716249396e31770b850e6": {
+        "type": "message",
+        "ts": "1525289403.000067",
+        "user": "UAD7P0ECT",
+        "text": "Só falta a parte de gerar o TXT agora"
+      },
+      "78a42b4fe0e8d80781363892c44de0b0": {
+        "type": "message",
+        "ts": "1525362624.000825",
+        "user": "UAECVL9DM",
+        "text": "O que aparece de erro aí nos relatórios?"
+      },
+      "c98897e3738adf4845cfb01700cd7eff": {
+        "type": "message",
+        "ts": "1525297753.000264",
+        "user": "UAD7P0ECT",
+        "text": "Morreram"
+      },
+      "e2c1a913dd334a7b6d9b89bb85abb506": {
+        "type": "message",
+        "ts": "1525361214.000763",
+        "user": "UAECW859V",
+        "text": "vc deu pull?"
+      },
+      "5ea98af6f6be511ff122904b43f7c3b0": {
+        "type": "message",
+        "ts": "1525362518.000412",
+        "user": "UAD7P0ECT",
+        "text": "No meu funcionou de boa"
+      },
+      "8f9bcf203ec5f6e5858cb1026aa83fae": {
+        "type": "message",
+        "ts": "1525295262.000216",
+        "user": "UAECW859V",
+        "text": "e os documentos do amilton nao sei se ele fez"
+      },
+      "b453d63618d929f7978a49534c75f6a3": {
+        "type": "message",
+        "ts": "1525284239.000220",
+        "user": "UAD7P0ECT",
+        "text": "Aqui não deu isso não, mas coloco essa validação "
+      },
+      "a6138fcc5c740653058847871ade893f": {
+        "type": "message",
+        "ts": "1525284014.000464",
+        "user": "UAD7P0ECT",
+        "text": "Nem"
+      },
+      "44509bb1e5cbde4bc074afac9e09991f": {
+        "type": "message",
+        "ts": "1525397539.000149",
+        "user": "UAECW859V",
+        "text": "No meu PC tava bugando até agora pouco com o banco que tinha sido gerado, então voltei pro banco antigo."
+      },
+      "c26ee3f842682f9dcd627f767db7814a": {
+        "type": "message",
+        "ts": "1525362525.000868",
+        "user": "UAD7P0ECT",
+        "text": "Defina não funcionar"
+      },
+      "a15e8a70b01660d4778a2af7eb2f8591": {
+        "type": "message",
+        "ts": "1525288426.000495",
+        "user": "UAD7P0ECT",
+        "text": "Tô a fim de adiantar o outro"
+      },
+      "9d8d5a224bf710a918536ac5e352a6f6": {
+        "type": "message",
+        "ts": "1525305120.000162",
+        "user": "UAECVL9DM",
+        "text": "To puxando do git pra ver como ficou"
+      },
+      "7b03eab552915c126be364e2969aeb04": {
+        "type": "message",
+        "ts": "1525283638.000756",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAECW859V\u003e eu fiz a de relatório de mensagens, tô mandando no git"
+      },
+      "2c75f387e5aa74fba1055427f715d440": {
+        "type": "message",
+        "ts": "1525301059.000428",
+        "user": "UAD7P0ECT",
+        "text": "Exportação do primeiro relatório pra TXT, o de emails por domínio, tá feito"
+      },
+      "a9cad74f55896ba8b669a639c68ef305": {
+        "type": "message",
+        "ts": "1525312411.000249",
+        "user": "UAECVL9DM",
+        "text": "Está testada essa versão que comitei, funcionou certinho, corrigi alguns bugs que encontrei, simplifiquei o código, testei, fiz validações, melhorias na interface e minha preocupação maior era com o banco de dados. Funcionou, e se ele pedir pra modificar mais alguma coisa, creio que ficará mais fácil futuramente"
+      },
+      "6bb39c071b59663f0f4b6c10784a19ee": {
+        "type": "message",
+        "ts": "1525296163.000561",
+        "user": "UAD7P0ECT",
+        "text": "Acho que de implementação só o txt"
+      },
+      "f1013f7bfa485da25156945498cf5872": {
+        "type": "message",
+        "ts": "1525295251.000652",
+        "user": "UAECW859V",
+        "text": "falta o banco que nao sei qual é o certo mais"
+      },
+      "e9f28c941796c6a3ca1645f542504784": {
+        "type": "message",
+        "ts": "1525283714.000156",
+        "user": "UAD7P0ECT",
+        "text": "\u003chttps://vinibs.github.io/luvi/#dbwhere\u003e"
+      },
+      "b84fa44c4abb6b3825a4f31ae2c90e22": {
+        "type": "message",
+        "ts": "1525289871.000542",
+        "user": "UAECW859V",
+        "text": "conferindo"
+      },
+      "a008afd6e701395d9df9a0afc87ff328": {
+        "type": "message",
+        "ts": "1525283626.000327",
+        "user": "UAECW859V",
+        "text": "só colocar a string com a codição dentro dele"
+      },
+      "05d92f76fe82ff50f656585a856b6ae3": {
+        "type": "message",
+        "ts": "1525289211.000226",
+        "user": "UAD7P0ECT",
+        "text": "Tá no git"
+      },
+      "65e0397030ea23a842662dd7738d77a6": {
+        "type": "message",
+        "ts": "1525284104.000500",
+        "user": "UAD7P0ECT",
+        "text": "Vou voltar às minhas tarefas domésticas aqui e talvez tentar descansar um pouco do que não consegui de noite, mas estarei aqui nas mensagens"
+      },
+      "8d8d5da87624e6af2ccde0f0def6ea2f": {
+        "type": "message",
+        "ts": "1525312440.000170",
+        "user": "UAECVL9DM",
+        "text": "Testem na máquina de vcs tbm e se quiserem ficar com essa versão, aprimorar, fica a critério de vcs. Senão a gente volta o repositório e fica com a outra versão"
+      },
+      "c84e6e9bef40ff2f1800c6964a7f699c": {
+        "type": "message",
+        "ts": "1525289411.000240",
+        "user": "UAD7P0ECT",
+        "text": "Confere, produção?"
+      },
+      "4cd9a4e69e1ea183bba20e244b29ea0e": {
+        "type": "message",
+        "ts": "1525310107.000171",
+        "user": "UAECVL9DM",
+        "text": "Fiz uma versão aqui pra mim com o banco de dados atualizado (tabela domain inclusa) e usando as views e funcionou bem, o código ficou até mais limpo. Posso dar um commit nela ou querem ficar com a que tá mesmo?"
+      },
+      "39a660a4a04494225cd32a0f5cc374ae": {
+        "type": "message",
+        "ts": "1525374773.000752",
+        "user": "UAD7P0ECT",
+        "text": "Eles quem tinham bugado"
+      },
+      "5303eeb5ef492de4ca6332723eb8eda3": {
+        "type": "message",
+        "ts": "1525283438.000058",
+        "user": "UAD7P0ECT",
+        "text": "URL"
+      },
+      "a99e2e641c776141b0b7a0993adcbc7c": {
+        "type": "message",
+        "ts": "1525283415.000755",
+        "user": "UAD7P0ECT",
+        "text": "Ah, sim"
+      },
+      "f60b2ee3ac59760d8367349d61fadd66": {
+        "type": "message",
+        "ts": "1525283932.000441",
+        "user": "UAD7P0ECT",
+        "text": "E no topo já coloquei o link pra fazer a versão txt"
+      },
+      "e5bba770bd79f95c6a1980ef55404a07": {
+        "type": "message",
+        "ts": "1525283696.000579",
+        "user": "UAECW859V",
+        "text": "-\u0026gt;select()-\u0026gt;where(\"...\")-\u0026gt;find();"
+      },
+      "032cf37998fac836fa8d0b0f2690dffb": {
+        "type": "message",
+        "ts": "1525283523.000502",
+        "user": "UAECVL9DM",
+        "text": "Fiz só pra ver se daria muito trabalho e nem deu tanto quanto imaginei"
+      },
+      "611e24c37349a8c322c28f3a21d445fe": {
+        "type": "message",
+        "ts": "1525295108.000643",
+        "user": "UAECW859V",
+        "text": "nao sei mais. só falta o txt?"
+      },
+      "70b04ed6b3e83d68c48e51fffd7d0b37": {
+        "type": "message",
+        "ts": "1525284018.000158",
+        "user": "UAD7P0ECT",
+        "text": "Já tá validando"
+      },
+      "586cfdd74ddf114528fff7a4ac3d438d": {
+        "type": "message",
+        "ts": "1525284262.000216",
+        "user": "UAD7P0ECT",
+        "text": "Foca em ajeitar o outro"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DAD4Q6ELU": {
+    "id": "DAD4Q6ELU",
+    "nome": "direct_DAD4Q6ELU",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACLE53R6": {
+    "id": "DACLE53R6",
+    "nome": "direct_DACLE53R6",
+    "hosts": {
+      "UAD8HUYLB": "UAD8HUYLB"
+    },
+    "mensagens": {
+      "7eee275c2e19b0e567e8df41e331345f": {
+        "type": "message",
+        "ts": "1524704496.000058",
+        "user": "UAECW859V",
+        "text": "fala meu bom"
+      },
+      "959595686461b42d46262da824253ecb": {
+        "type": "message",
+        "ts": "1524705331.000163",
+        "user": "UAECW859V",
+        "text": "tipo"
+      },
+      "0a64e39caeccb37ec91875e019b728f6": {
+        "type": "message",
+        "ts": "1524704980.000275",
+        "user": "UAECW859V",
+        "text": "cadê seu processo"
+      },
+      "3cdaffd8726a1ffc00c2c0a9766477fe": {
+        "type": "message",
+        "ts": "1524705344.000124",
+        "user": "UAECW859V",
+        "text": "depois revisão de requisitos"
+      },
+      "98d34750adcf239cf8d12313a1aa7770": {
+        "type": "message",
+        "ts": "1524705330.000088",
+        "user": "UAECW859V",
+        "text": "uahuaha"
+      },
+      "d192337de140d7d9f0dc7274d6e72947": {
+        "type": "message",
+        "ts": "1524704474.000108",
+        "user": "UAD8HUYLB",
+        "text": "mano"
+      },
+      "65cae21cee48698198f67e3146a73357": {
+        "type": "message",
+        "ts": "1524704722.000072",
+        "user": "UAD8HUYLB",
+        "text": "aham"
+      },
+      "44479f166f42bbe8c074df9f82dbe9a6": {
+        "type": "message",
+        "ts": "1524705085.000112",
+        "user": "UAD8HUYLB",
+        "text": "kkk"
+      },
+      "74417e08d79c5223fbbf9efbdc526c9c": {
+        "type": "message",
+        "ts": "1524704675.000138",
+        "user": "UAD8HUYLB",
+        "text": "nao entendi o que e pra fazer"
+      },
+      "10d32b38d09a0a585cd2fd15c545324b": {
+        "type": "message",
+        "ts": "1524704795.000083",
+        "user": "UAECW859V",
+        "text": "tem que seguir o processo"
+      },
+      "7110491fc8bafde5296cf87386d21c0c": {
+        "type": "message",
+        "ts": "1524704710.000284",
+        "user": "UAECW859V",
+        "text": "você tem seu processo"
+      },
+      "3dda2ff3448727bf3ac77caf0d1ced50": {
+        "type": "message",
+        "ts": "1524704753.000190",
+        "user": "UAECW859V",
+        "text": "\u0026lt; alexandre"
+      },
+      "8e0c4ece427bdc0d97a88379ddfe32c7": {
+        "type": "message",
+        "ts": "1524704748.000255",
+        "user": "UAECW859V",
+        "text": "vc manda mensagem para o l\u0027erário pelo slack"
+      },
+      "5430267e5f07517b7e28db16a8d607ba": {
+        "type": "message",
+        "ts": "1524705363.000268",
+        "user": "UAD8HUYLB",
+        "text": "tendi"
+      },
+      "f89762346beea6a47206e1ae1f5feaff": {
+        "type": "message",
+        "ts": "1524705095.000005",
+        "user": "UAECW859V",
+        "text": "então segue ele"
+      },
+      "76430169ebdf2118f5deecfe33cdb7b9": {
+        "type": "message",
+        "ts": "1524704976.000039",
+        "user": "UAECW859V",
+        "text": "HAHAHA"
+      },
+      "beb35dae6b85e45503f2d467e00175c2": {
+        "type": "message",
+        "ts": "1524704975.000014",
+        "user": "UAECW859V",
+        "text": "tudo o que ta no seu processo"
+      },
+      "7a5a11cc4761271d858d42405b6fbaf7": {
+        "type": "message",
+        "ts": "1524705333.000056",
+        "user": "UAD8HUYLB",
+        "text": "dmr"
+      },
+      "1c8447cd95297f58d7219b0dc0249547": {
+        "type": "message",
+        "ts": "1524704777.000139",
+        "user": "UAD8HUYLB",
+        "text": "mas eu tenho que fazer a documentaçao do software?"
+      },
+      "ffb5c964fd7f53411a405a3149fecbca": {
+        "type": "message",
+        "ts": "1524704737.000023",
+        "user": "UAECW859V",
+        "text": "e quando chegar na hora de pedir os requisitos"
+      },
+      "2db8aabc51ee3bc62349e31493062192": {
+        "type": "message",
+        "ts": "1524705326.000146",
+        "user": "UAECW859V",
+        "text": "tudo o que vc definiu cara"
+      },
+      "f5beaf4c62ad1553fa678967485c4a16": {
+        "type": "message",
+        "ts": "1524705369.000110",
+        "user": "UAECW859V",
+        "text": "é pra começar e eu nao sei qual a data"
+      },
+      "ecf83a6ac252acf52750805aee325611": {
+        "type": "message",
+        "ts": "1524705333.000232",
+        "user": "UAD8HUYLB",
+        "text": "kkk"
+      },
+      "f15b11cc249c482ff22711ff3ddba067": {
+        "type": "message",
+        "ts": "1524705355.000249",
+        "user": "UAECW859V",
+        "text": "mas não é pra hj"
+      },
+      "8121e07fffab2233d334a152b72cee64": {
+        "type": "message",
+        "ts": "1524705096.000006",
+        "user": "UAECW859V",
+        "text": ":v"
+      },
+      "dbc23403ad55a05f0c7fd6e87fb56cb2": {
+        "type": "message",
+        "ts": "1524705337.000240",
+        "user": "UAECW859V",
+        "text": "o meu começa com levantamento de requisitos"
+      },
+      "4b66675d20574a5274c8bad1740dce00": {
+        "type": "message",
+        "ts": "1524704726.000069",
+        "user": "UAD8HUYLB",
+        "text": "eai?"
+      },
+      "76bbe59e5136694739c146d5c38a4bd2": {
+        "type": "message",
+        "ts": "1524705083.000282",
+        "user": "UAD8HUYLB",
+        "text": "ta aqui"
+      },
+      "b0ae1331ffbcd3cfe5dd5a2a9d82d5fe": {
+        "type": "message",
+        "ts": "1524704729.000334",
+        "user": "UAECW859V",
+        "text": "entao vc segue o processo"
+      },
+      "d0ad976a0ef7397dcbad136c13a513d3": {
+        "type": "message",
+        "ts": "1524705344.000269",
+        "user": "UAD8HUYLB",
+        "text": "pq nao vai dar tempo de fazer o escopo do projeto ne"
+      },
+      "cea1874377001b8ca2d47112a53eadf3": {
+        "type": "message",
+        "ts": "1524704668.000210",
+        "user": "UAD8HUYLB",
+        "text": "onde tao os requisitos que é pra implementar?"
+      },
+      "fc418d4df71fa1890aaf4e45a98350b3": {
+        "type": "message",
+        "ts": "1524704805.000238",
+        "user": "UAD8HUYLB",
+        "text": "tudo o que?"
+      },
+      "a5b6b44eb71239e70482a2710cd01adb": {
+        "type": "message",
+        "ts": "1524704791.000018",
+        "user": "UAECW859V",
+        "text": "tem que fazer tudo"
+      },
+      "90a2c8d316b72ef4346a9ced3dde067f": {
+        "type": "message",
+        "ts": "1524704725.000295",
+        "user": "UAECW859V",
+        "text": "no seu processo está definido quando você vai pedir os requisitos pro cliente"
+      },
+      "cbf06190139b40eab9b3ab936f4bc215": {
+        "type": "message",
+        "ts": "1524705347.000034",
+        "user": "UAD8HUYLB",
+        "text": "maior tempo"
+      },
+      "12c11b7fde8219c23a1d4ff715ec1687": {
+        "type": "message",
+        "ts": "1524705265.000250",
+        "user": "UAD8HUYLB",
+        "text": "tipo, tenho que fazer o escopo do projeto, tudo que ta no processo?"
+      },
+      "ec70c3bee716f8ebbf1c60370772c758": {
+        "type": "message",
+        "ts": "1524704758.000316",
+        "user": "UAECW859V",
+        "text": "ele é o seu cliente"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAGCTPUBA": {
+    "id": "DAGCTPUBA",
+    "nome": "direct_DAGCTPUBA",
+    "hosts": {
+      "UAGH954BT": "UAGH954BT"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4R1SBE": {
+    "id": "DAD4R1SBE",
+    "nome": "direct_DAD4R1SBE",
+    "hosts": {
+      "UAD8GCSFM": "UAD8GCSFM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECVLL9M": {
+    "id": "DAECVLL9M",
+    "nome": "direct_DAECVLL9M",
+    "hosts": {
+      "UAD8GCSFM": "UAD8GCSFM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADFGF06R": {
+    "id": "DADFGF06R",
+    "nome": "direct_DADFGF06R",
+    "hosts": {
+      "UADFGDQS1": "UADFGDQS1"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACLDLH6U": {
+    "id": "DACLDLH6U",
+    "nome": "direct_DACLDLH6U",
+    "hosts": {
+      "UADFH0YJH": "UADFH0YJH"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4R1HM2": {
+    "id": "DAD4R1HM2",
+    "nome": "direct_DAD4R1HM2",
+    "hosts": {
+      "UAD8ES2RZ": "UAD8ES2RZ"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADFGDYJ1": {
+    "id": "DADFGDYJ1",
+    "nome": "direct_DADFGDYJ1",
+    "hosts": {
+      "UADFGDQS1": "UADFGDQS1"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GAECY8RQF": {
+    "id": "GAECY8RQF",
+    "nome": "arv",
+    "hosts": {
+      "UAD7P0ECT": "UAD7P0ECT",
+      "UAECVL9DM": "UAECVL9DM",
+      "UAECW859V": "UAECW859V"
+    },
+    "mensagens": {
+      "f8e3ffb4c6266da0ac63db3518524ab7": {
+        "type": "message",
+        "ts": "1524703592.000052",
+        "user": "UAD7P0ECT",
+        "text": "Aeeeee"
+      },
+      "f2501568f24e5edf6c96949740760f8a": {
+        "type": "message",
+        "ts": "1524703491.000092",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "f27a768da1ab425be2fca7fa3f48fc09": {
+        "type": "message",
+        "ts": "1524703573.000072",
+        "user": "UAD7P0ECT",
+        "text": "Era pra ter convidado"
+      },
+      "afe3e09ddf37e77c1c59ccf474cdc2f4": {
+        "type": "message",
+        "ts": "1524703594.000112",
+        "user": "UAECVL9DM",
+        "text": "\u003c@UAECVL9DM\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAECVL9DM/FACQX0CKB/processosoftware1.jpeg|ProcessoSoftware1.jpeg\u003e",
+        "subtype": "file_share",
+        "username": "amilton"
+      },
+      "c09f5f87653e0a9b33922ece0255806f": {
+        "type": "message",
+        "ts": "1524703491.000218",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e set the channel\u0027s purpose: Simplificar o trabalho em grupo",
+        "subtype": "group_purpose"
+      },
+      "711961f89e4cf23a5c21c2e218584e73": {
+        "type": "message",
+        "ts": "1524703505.000214",
+        "user": "UAD7P0ECT",
+        "text": "LetisGo"
+      },
+      "3eb8fc5c56b2bba276382ca770575733": {
+        "type": "message",
+        "ts": "1524703537.000077",
+        "user": "UAD7P0ECT",
+        "text": "Amíltu, cadê tu, tatu?"
+      },
+      "a442106cceffa1006792e0da69f91718": {
+        "type": "message",
+        "ts": "1524703772.000132",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e archived the private channel",
+        "subtype": "group_archive"
+      },
+      "30d4c3236ea2cbeb43c86f253fc61e68": {
+        "type": "message",
+        "ts": "1524703607.000075",
+        "user": "UAD7P0ECT",
+        "text": "Oquêi, letisgôu"
+      },
+      "87c207aa0e972389274ddb634bf65d0b": {
+        "type": "message",
+        "ts": "1524703561.000294",
+        "user": "UAECW859V",
+        "text": "ja convidou ele?"
+      },
+      "948e77efe31250e324493d564fe8ef50": {
+        "type": "message",
+        "ts": "1524703579.000253",
+        "user": "UAECVL9DM",
+        "text": "To aqui"
+      },
+      "e766e39ae7beab594d1f2de665ab52f5": {
+        "type": "message",
+        "ts": "1524703503.000191",
+        "user": "UAD7P0ECT",
+        "text": "Trabalho em grupo não é em grupo sem grupo"
+      },
+      "055b3919f4e1390609239ba602412ef7": {
+        "type": "message",
+        "ts": "1524703594.000090",
+        "user": "UAD7P0ECT",
+        "text": "Tatu"
+      },
+      "82f68c33e33f4ef22e873cee0171ea20": {
+        "type": "message",
+        "ts": "1524703491.000278",
+        "user": "UAECW859V",
+        "text": "\u003c@UAECW859V\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "383069861d53310d2483c51e6da818c7": {
+        "type": "message",
+        "ts": "1524703504.000083",
+        "user": "UAECW859V",
+        "text": "heya"
+      },
+      "21eca02ca63ec1b96d5f96d7bd88247d": {
+        "type": "message",
+        "ts": "1524703492.000053",
+        "user": "UAECVL9DM",
+        "text": "\u003c@UAECVL9DM\u003e has joined the group",
+        "subtype": "group_join"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DADBFMBS6": {
+    "id": "DADBFMBS6",
+    "nome": "direct_DADBFMBS6",
+    "hosts": {
+      "UAECVL9DM": "UAECVL9DM"
+    },
+    "mensagens": {
+      "e158f4e04448e46bb40eb7429290c5d3": {
+        "type": "message",
+        "ts": "1524703989.000288",
+        "user": "UAECVL9DM",
+        "text": "Tudo certo!"
+      },
+      "3a330fa406c9acf1be46e04b3595c5d2": {
+        "type": "message",
+        "ts": "1524704073.000066",
+        "user": "UAECVL9DM",
+        "text": "Ok"
+      },
+      "83af00b223088cfe587968feeabd05cc": {
+        "type": "message",
+        "ts": "1524704191.000086",
+        "user": "UAECVL9DM",
+        "text": "Ok"
+      },
+      "8471fa5eccbf154969d292c05f754b13": {
+        "type": "message",
+        "ts": "1524704257.000307",
+        "user": "UAECVL9DM",
+        "text": "Anotei aqui, vou repassar para a minha equipe. Obrigado!"
+      },
+      "30e36f09c1eb6a9a594fbacea58e7bf1": {
+        "type": "message",
+        "ts": "1524703970.000027",
+        "user": "UAECVL9DM",
+        "text": "Prezado sr. Alexandre L\u0027Erário, boa noite. Sou Amilton, analista da equipe Grupo 1, responsável pela implementação do projeto ARV Email Marketing."
+      },
+      "f355ebbb37f959b4b6c1df60355b7ab5": {
+        "type": "message",
+        "ts": "1524703983.000165",
+        "user": "UAD8B843V",
+        "text": "Olá Amilto, tudo na paz?"
+      },
+      "068fa51ecac06960c83926b4650e8b5f": {
+        "type": "message",
+        "ts": "1524704085.000025",
+        "user": "UAD8B843V",
+        "text": "1 - Preciso de um relatório de usuários por domínio:\n\nExemplo: \n\n\t@gmail.com\nuser1\nuser2\nuser3\nuser4\n\t@hotmail.com\nusera\nuserb\nuserc\n\nPreciso visualizar na tela e também gerar um arquivo .txt"
+      },
+      "e9ca93291024c706838c0ac2b78448d6": {
+        "type": "message",
+        "ts": "1524704286.000172",
+        "user": "UAD8B843V",
+        "text": "Ok, obrigado."
+      },
+      "731724193478eae863464fe3bbd17e46": {
+        "type": "message",
+        "ts": "1524704185.000244",
+        "user": "UAD8B843V",
+        "text": "pode ser um download"
+      },
+      "f3ad34693f8b50971def5276fb326a6b": {
+        "type": "message",
+        "ts": "1524704098.000071",
+        "user": "UAD8B843V",
+        "text": "e\n2 -Preciso de um relatorio de e-mail enviados por dominio em um período de data;\nQuero informar a data inicial e final. o sistema retorna, por exemplo:\n\n@gmail.com \u003d\u0026gt; 12 mails\n@hotmail.com \u003d\u0026gt; 15 mails\n\nDeve ter opção de gerar um arquivo txt com os resultados e/ou exibir na tela."
+      },
+      "8a65e75fb41f94325d9773dd731d17bd": {
+        "type": "message",
+        "ts": "1524704059.000087",
+        "user": "UAD8B843V",
+        "text": "Sim procede."
+      },
+      "9b462937e97268adf7fffa633585a4ba": {
+        "type": "message",
+        "ts": "1524704042.000247",
+        "user": "UAECVL9DM",
+        "text": "Então, sobre o projeto, ouvi dizer que o sr. gostaria de acrescentar alguns novos requisitos (funcionalidades, regras etc). Procede?"
+      },
+      "0dde1cde19c55a10ae2b948d08c5ddc7": {
+        "type": "message",
+        "ts": "1524704168.000042",
+        "user": "UAECVL9DM",
+        "text": "Entendido. Esse relatório TXT, quer que gere ele automaticamente numa pasta específica, um link para download dele, como fica melhor para você?"
+      },
+      "1815751b6b254797178e1d953bcc1b8a": {
+        "type": "message",
+        "ts": "1524704272.000054",
+        "user": "UAECVL9DM",
+        "text": "Qualquer coisa, pode entrar em contato com a gente."
+      },
+      "9ffedbc2341cfc53523690f16f069386": {
+        "type": "message",
+        "ts": "1524704065.000020",
+        "user": "UAD8B843V",
+        "text": "preciso de duas novas funcionalidades"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4R1NTW": {
+    "id": "DAD4R1NTW",
+    "nome": "direct_DAD4R1NTW",
+    "hosts": {
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADENG2BX": {
+    "id": "DADENG2BX",
+    "nome": "direct_DADENG2BX",
+    "hosts": {
+      "USLACKBOT": "USLACKBOT"
+    },
+    "mensagens": {
+      "a68d98d71f3e207d22348ae68e1094a4": {
+        "type": "message",
+        "ts": "1524698972.000037",
+        "user": "USLACKBOT",
+        "text": "If you\u0027re not sure how to do something in Slack, *just type your question below*. \r\n\r\nOr press these buttons to learn about the following topics:",
+        "subtype": "bot_message",
+        "username": "slackbot"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADBFLJQJ": {
+    "id": "DADBFLJQJ",
+    "nome": "direct_DADBFLJQJ",
+    "hosts": {
+      "UADFGDQS1": "UADFGDQS1"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQTNH5X": {
+    "id": "DACQTNH5X",
+    "nome": "direct_DACQTNH5X",
+    "hosts": {
+      "UAECVL9DM": "UAECVL9DM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4R1UJG": {
+    "id": "DAD4R1UJG",
+    "nome": "direct_DAD4R1UJG",
+    "hosts": {
+      "UADFGDQS1": "UADFGDQS1"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACLD23KJ": {
+    "id": "DACLD23KJ",
+    "nome": "direct_DACLD23KJ",
+    "hosts": {
+      "UADFGDQS1": "UADFGDQS1"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADBFE91Q": {
+    "id": "DADBFE91Q",
+    "nome": "direct_DADBFE91Q",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72"
+    },
+    "mensagens": {
+      "4eb2d1644474217f3065e504b5ea562d": {
+        "type": "message",
+        "ts": "1524784831.000270",
+        "user": "UACLCQU72",
+        "text": "agora meus atributos vão se chamar atrubitos"
+      },
+      "b651350f0ae0c9f905a1315247150f56": {
+        "type": "message",
+        "ts": "1524784753.000050",
+        "user": "UAD7P0ECT",
+        "text": "Fui escrever, buguei"
+      },
+      "9cd0b3a186a568fbd4506b159a3acb89": {
+        "type": "message",
+        "ts": "1524784771.000029",
+        "user": "UACLCQU72",
+        "text": "foi bugar e escrevey"
+      },
+      "0f531bdf5398c7173351cc957b12c649": {
+        "type": "message",
+        "ts": "1524784783.000188",
+        "user": "UAD7P0ECT",
+        "text": "Huahua, tipo isso"
+      },
+      "1356157ea0b0b051f1a397ff48ea1821": {
+        "type": "message",
+        "ts": "1524784731.000180",
+        "user": "UACLCQU72",
+        "text": "atrubito"
+      },
+      "3c1cfd6edc86bb93bbf40cb4219f6c95": {
+        "type": "message",
+        "ts": "1524784668.000303",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAD7P0ECT/FADF5C0NL/screen_shot_2018-04-26_at_20.15.25.png|Buguei\u003e",
+        "subtype": "file_share",
+        "username": "vsoares"
+      },
+      "f5540bb396f1ed18b7ed2b440500d136": {
+        "type": "message",
+        "ts": "1524784821.000267",
+        "user": "UACLCQU72",
+        "text": "gostei do nome, ficou parecendo um apelido carinhoso"
+      },
+      "33c8da97b645f57d9e240ed28ab0e68f": {
+        "type": "message",
+        "ts": "1524784850.000333",
+        "user": "UAD7P0ECT",
+        "text": "Gostei também, ficou bonitinho"
+      },
+      "f453435187c9fd02da21d22dc4db9e10": {
+        "type": "message",
+        "ts": "1524784743.000025",
+        "user": "UACLCQU72",
+        "text": "ué"
+      },
+      "637df2ce4734247e92097ca3f550decf": {
+        "type": "message",
+        "ts": "1524784845.000368",
+        "user": "UAD7P0ECT",
+        "text": "Haha, boa"
+      },
+      "55650303d47c222023f54f0d1520760f": {
+        "type": "message",
+        "ts": "1524784739.000182",
+        "user": "UAD7P0ECT",
+        "text": "Heuheuheu"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4QDML4": {
+    "id": "DAD4QDML4",
+    "nome": "direct_DAD4QDML4",
+    "hosts": {
+      "UAD8ES2RZ": "UAD8ES2RZ"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GAD6DDH7V": {
+    "id": "GAD6DDH7V",
+    "nome": "grupo3",
+    "hosts": {
+      "UAD560FD2": "UAD560FD2",
+      "UAD8ES2RZ": "UAD8ES2RZ",
+      "UAD8B843V": "UAD8B843V",
+      "UADFGDQS1": "UADFGDQS1",
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {
+      "4eb9a709d939618e3b7701d184fe6548": {
+        "type": "message",
+        "ts": "1524706656.000296",
+        "user": "UAD8ES2RZ",
+        "text": "o problema é a documentação do software"
+      },
+      "d0360a5751de7c8d2e1c05923cc1a66c": {
+        "type": "message",
+        "ts": "1524706322.000048",
+        "user": "UADFGDQS1",
+        "text": "Eu tinha te colocado a umas 2 semanas ja"
+      },
+      "be46d386766bc00112e77c50363e04ce": {
+        "type": "message",
+        "ts": "1524706675.000320",
+        "user": "UAD560FD2",
+        "text": "Beleza"
+      },
+      "76025af24a01c09571af19828e65d430": {
+        "type": "message",
+        "ts": "1524706050.000029",
+        "user": "UADFGDQS1",
+        "text": "Acho que a implementação era bom aprimorar sim um pouco..."
+      },
+      "b948a79cbfc8afcff3b21628b2924c04": {
+        "type": "message",
+        "ts": "1524703832.000276",
+        "user": "UADFGDQS1",
+        "text": "Testando.."
+      },
+      "1b8c1d9de12a067542bef42eaed2945d": {
+        "type": "message",
+        "ts": "1524702752.000105",
+        "user": "UAD8ES2RZ",
+        "text": "\u003c@UAD8ES2RZ\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "472deb6613a9c4adbfd9283a9e224190": {
+        "type": "message",
+        "ts": "1524705703.000061",
+        "user": "UAD560FD2",
+        "text": "Quais os requisitos minimos do software?"
+      },
+      "35e8bfdc5f36cae394108fc84f850ac2": {
+        "type": "message",
+        "ts": "1524706174.000208",
+        "user": "UADFGDQS1",
+        "text": "Então n sei...k"
+      },
+      "078f139094a49ff663b401609be99116": {
+        "type": "message",
+        "ts": "1524693564.000434",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "d0745750cd81a5cc2834061dff333f1a": {
+        "type": "message",
+        "ts": "1524706637.000175",
+        "user": "UAD560FD2",
+        "text": "alguem esta vendo modelo de contrato?"
+      },
+      "1547151866a5a5c7a87959dd3f44f8f9": {
+        "type": "message",
+        "ts": "1524706624.000094",
+        "user": "UAD560FD2",
+        "text": "vamo separar o que cada um vai fazer"
+      },
+      "c81185ebadf4ac2d01560f8758857de1": {
+        "type": "message",
+        "ts": "1524706221.000272",
+        "user": "UAD560FD2",
+        "text": "pode me adicionar no drive?"
+      },
+      "840d3052a0c68e77963441020582ff70": {
+        "type": "message",
+        "ts": "1524780648.000050",
+        "user": "UAD8ES2RZ",
+        "text": "verifiquem por favor"
+      },
+      "339035fd40f8c93f74b13be4c35b8209": {
+        "type": "message",
+        "ts": "1524703089.000161",
+        "user": "UAD8B843V",
+        "text": "\u003c@UAD8B843V\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "eb9640ad2632ffef81d1e45dcedef4e4": {
+        "type": "message",
+        "ts": "1524706794.000270",
+        "user": "UADFGDQS1",
+        "text": "ata..."
+      },
+      "4acdb2e024a56b7889f5920e46ccf3a3": {
+        "type": "message",
+        "ts": "1524706731.000310",
+        "user": "UADFGDQS1",
+        "text": "Do projeto sim..."
+      },
+      "cef30417508d9c9e45552393ed6b72ac": {
+        "type": "message",
+        "ts": "1524706069.000006",
+        "user": "UADFGDQS1",
+        "text": "O leandro deu uma mudada na documentação..."
+      },
+      "aa655f72ca702a22d9a31104fa5077c8": {
+        "type": "message",
+        "ts": "1524706549.000286",
+        "user": "UADFGDQS1",
+        "text": "Tem que atualizar umas coisas que o prof tinha falado na aula semana passada..."
+      },
+      "7f2e6cce69827122b97f1798339cfb20": {
+        "type": "message",
+        "ts": "1524705515.000051",
+        "user": "UAD560FD2",
+        "text": "\u003c@UAD560FD2\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "0ea2bb97c2ebb55941d6b8a929b27b46": {
+        "type": "message",
+        "ts": "1524706294.000131",
+        "user": "UADFGDQS1",
+        "text": "Vc ja ta no drive"
+      },
+      "e8e3fa4b16a92ef0624f6c6f5f818e6e": {
+        "type": "message",
+        "ts": "1524780739.000484",
+        "user": "UAD8ES2RZ",
+        "text": "Professor quais são os 2 requisitos a mais que tem que ter no projeto?"
+      },
+      "9c67fbd397927f1d08e7100117f42463": {
+        "type": "message",
+        "ts": "1524706641.000028",
+        "user": "UAD8ES2RZ",
+        "text": "cara a documentação do processo eu to fazendo"
+      },
+      "fdd34532c924ad82724f7b2cc1762f15": {
+        "type": "message",
+        "ts": "1524780846.000255",
+        "user": "UAD8B843V",
+        "text": "Olá.\nPreciso de duas novas funcionalidades no sistema.\n1 - Preciso de um relatório de usuários por domínio:\n\nExemplo: \n\n\t@gmail.com\nuser1\nuser2\nuser3\nuser4\n\t@hotmail.com\nusera\nuserb\nuserc\n\nPreciso visualizar na tela e também gerar um arquivo .txt\n\n\n2 -Preciso de um relatorio de e-mail enviados por dominio em um período de data;\nQuero informar a data inicial e final. o sistema retorna, por exemplo:\n\n@gmail.com \u003d\u0026gt; 12 mails\n@hotmail.com \u003d\u0026gt; 15 mails\n\nDeve ter opção de gerar um arquivo txt com os resultados e/ou exibir na tela."
+      },
+      "1a4555a61457adf710bca120ea74aa47": {
+        "type": "message",
+        "ts": "1524706410.000105",
+        "user": "UAD560FD2",
+        "text": "onde posso ajudar na documentação, o que falta fazer?"
+      },
+      "b1f05c0456cac15f56adb84fd02249d6": {
+        "type": "message",
+        "ts": "1524706059.000046",
+        "user": "UAD8ES2RZ",
+        "text": "A documentação está sendo atualizada"
+      },
+      "4b3d554fc6d2814563f05c22cd2132ad": {
+        "type": "message",
+        "ts": "1524706566.000231",
+        "user": "UADFGDQS1",
+        "text": "arrumar as nomenclaturas"
+      },
+      "8dd6c590296ddf08b529b47ce0093cf3": {
+        "type": "message",
+        "ts": "1524706609.000279",
+        "user": "UADFGDQS1",
+        "text": "e colocar uma modelos de como vi ser os contratos a documentação essas coisas"
+      },
+      "21cf1ccadcf318abb5b02753c9a33b21": {
+        "type": "message",
+        "ts": "1524706735.000163",
+        "user": "UADFGDQS1",
+        "text": "ta no drive"
+      },
+      "14378ec702a56e4c16a273f332a148f9": {
+        "type": "message",
+        "ts": "1524706216.000197",
+        "user": "UAD560FD2",
+        "text": "Beleza"
+      },
+      "1710dcb5bc1da1ec6d588aef1156bcb4": {
+        "type": "message",
+        "ts": "1524703066.000108",
+        "user": "UADFGDQS1",
+        "text": "\u003c@UADFGDQS1\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "e56e3a5d8024dfc7c6728bce1e7a5024": {
+        "type": "message",
+        "ts": "1524780636.000485",
+        "user": "UAD8ES2RZ",
+        "text": "Documento do processo e bpmn estão atualizados no driver"
+      },
+      "f433d9fd5748501e815eaf0fad60ce9b": {
+        "type": "message",
+        "ts": "1524706692.000030",
+        "user": "UAD560FD2",
+        "text": "Ja temos algo?"
+      },
+      "5f9089195ce293be3678dd5c03f83417": {
+        "type": "message",
+        "ts": "1524706747.000047",
+        "user": "UAD560FD2",
+        "text": "da documentação de requisitos tal"
+      },
+      "f75893b9823f6ffc498f6ab9567eeed4": {
+        "type": "message",
+        "ts": "1524706751.000029",
+        "user": "UAD560FD2",
+        "text": "isso q eu quis dizer"
+      },
+      "f8ab2114c4eb4fbbec538f1ba8916384": {
+        "type": "message",
+        "ts": "1524705806.000058",
+        "user": "UAD560FD2",
+        "text": "Cesar e Leandro como ta a documentação ? Tem que aprimorar aquela implementação?"
+      },
+      "03383d83cb092449fb943acf8aa917d2": {
+        "type": "message",
+        "ts": "1524706093.000136",
+        "user": "UADFGDQS1",
+        "text": "Ta tudo no drive ja..."
+      },
+      "4f6bfd034fbce7028ca5568423fbcc4e": {
+        "type": "message",
+        "ts": "1524706227.000147",
+        "user": "UAD560FD2",
+        "text": "\u003cmailto:nicolasaoki@alunos.utfpr.edu.br|nicolasaoki@alunos.utfpr.edu.br\u003e"
+      },
+      "6b554b78c16768b51b372e46489d3571": {
+        "type": "message",
+        "ts": "1524706089.000121",
+        "user": "UAD560FD2",
+        "text": "O que pode ser feito pra melhorar a implementação"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DADENG2N9": {
+    "id": "DADENG2N9",
+    "nome": "direct_DADENG2N9",
+    "hosts": {
+      "UAD7P0ECT": "UAD7P0ECT"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACLDJM16": {
+    "id": "DACLDJM16",
+    "nome": "direct_DACLDJM16",
+    "hosts": {
+      "UADFH0YJH": "UADFH0YJH"
+    },
+    "mensagens": {
+      "6fcf9f9ce5aa30f53d2d209e869f4f64": {
+        "type": "message",
+        "ts": "1524703936.000118",
+        "user": "UADFH0YJH",
+        "text": ":joy::joy::joy:"
+      },
+      "2d94e5ada5c44a5d94c3b80ae390ee76": {
+        "type": "message",
+        "ts": "1524703239.000252",
+        "user": "UAD7P0ECT",
+        "text": "Adolpho Born"
+      },
+      "93ca7b08dd2d1ba2c239e47307f4daec": {
+        "type": "message",
+        "ts": "1524703875.000068",
+        "user": "UAD7P0ECT",
+        "text": "De boinas"
+      },
+      "9341d00c79b1e2a9acacf38220b84f8d": {
+        "type": "message",
+        "ts": "1524703840.000181",
+        "user": "UADFH0YJH",
+        "text": "kkkk"
+      },
+      "ec6507746b5a64fe9a1089ec286f60a6": {
+        "type": "message",
+        "ts": "1524703844.000064",
+        "user": "UADFH0YJH",
+        "text": "de boenas"
+      },
+      "575ec4c4db490c567c28d2294f19809a": {
+        "type": "message",
+        "ts": "1524703802.000247",
+        "user": "UAD7P0ECT",
+        "text": "Beleza?"
+      },
+      "51dbf1f9b1d1e94347b6e7078b59237c": {
+        "type": "message",
+        "ts": "1524703760.000137",
+        "user": "UADFH0YJH",
+        "text": "Sussa"
+      },
+      "f26bcafb64e0951ab8d5ba3a618b7248": {
+        "type": "message",
+        "ts": "1524703750.000202",
+        "user": "UADFH0YJH",
+        "text": "Blz"
+      },
+      "7285077a6d06d1d2ecec91d7641e495f": {
+        "type": "message",
+        "ts": "1524703886.000217",
+        "user": "UAD7P0ECT",
+        "text": ":tophat:"
+      },
+      "0addd877cb17f103d946f168bffd778e": {
+        "type": "message",
+        "ts": "1524703851.000059",
+        "user": "UADFH0YJH",
+        "text": "y usted?"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADFGF0BF": {
+    "id": "DADFGF0BF",
+    "nome": "direct_DADFGF0BF",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE8B9QKY": {
+    "id": "DAE8B9QKY",
+    "nome": "direct_DAE8B9QKY",
+    "hosts": {
+      "USLACKBOT": "USLACKBOT"
+    },
+    "mensagens": {
+      "d147af5f239033d8b4f1515fa6aef9dc": {
+        "type": "message",
+        "ts": "1524703124.000021",
+        "user": "USLACKBOT",
+        "text": "If you\u0027re not sure how to do something in Slack, *just type your question below*. \r\n\r\nOr press these buttons to learn about the following topics:",
+        "subtype": "bot_message",
+        "username": "slackbot"
+      },
+      "e78b0669f01f7e4d35f0c21b0b89d668": {
+        "type": "message",
+        "ts": "1524703772.000158",
+        "user": "USLACKBOT",
+        "text": "\u003c@UAD7P0ECT\u003e archived the private channel \u003chttps://ddsutfpr.slack.com/archives/GAECY8RQF|arv\u003e"
+      },
+      "338d396be68c9025b8de99c01f4dc17a": {
+        "type": "message",
+        "ts": "1524703083.000230",
+        "user": "USLACKBOT",
+        "text": "Hello, I’m Slackbot. I try to be helpful. (But I’m still just a bot. Sorry!) *Type something* and hit Enter to send your message."
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAECW8AP9": {
+    "id": "DAECW8AP9",
+    "nome": "direct_DAECW8AP9",
+    "hosts": {
+      "UAECW859V": "UAECW859V"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECY6S8P": {
+    "id": "DAECY6S8P",
+    "nome": "direct_DAECY6S8P",
+    "hosts": {
+      "UACQW8QKB": "UACQW8QKB"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE8AR4KY": {
+    "id": "DAE8AR4KY",
+    "nome": "direct_DAE8AR4KY",
+    "hosts": {
+      "UAD8GCSFM": "UAD8GCSFM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE8CBQTG": {
+    "id": "DAE8CBQTG",
+    "nome": "direct_DAE8CBQTG",
+    "hosts": {
+      "UAD8HUYLB": "UAD8HUYLB"
+    },
+    "mensagens": {
+      "f203ece14248d9100505805ffd478a1f": {
+        "type": "message",
+        "ts": "1524704261.000222",
+        "user": "UAD6CL04T",
+        "text": "Oi, você não autorizou o monitoramento da comunicação, é só acessar aqui:\n\u003chttp://ddsutfpr.sa-east-1.elasticbeanstalk.com/\u003e\nE clicar \"Autorizar monitoramento\""
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADFY16H3": {
+    "id": "DADFY16H3",
+    "nome": "direct_DADFY16H3",
+    "hosts": {
+      "UAD560FD2": "UAD560FD2"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "CACJ8PG0G": {
+    "id": "CACJ8PG0G",
+    "nome": "geral",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72",
+      "UAD8ES2RZ": "UAD8ES2RZ",
+      "UADDFJLE9": "UADDFJLE9",
+      "UAECVL9DM": "UAECVL9DM",
+      "UAECW859V": "UAECW859V",
+      "UADFGDQS1": "UADFGDQS1",
+      "UADFH0YJH": "UADFH0YJH",
+      "UACQW8QKB": "UACQW8QKB",
+      "UAD6CL04T": "UAD6CL04T",
+      "UADBLH5DG": "UADBLH5DG",
+      "UAD560FD2": "UAD560FD2",
+      "UAD7P0ECT": "UAD7P0ECT",
+      "UAD6QRPK5": "UAD6QRPK5",
+      "UAD8HUYLB": "UAD8HUYLB",
+      "UAD8B843V": "UAD8B843V",
+      "UAD8GCSFM": "UAD8GCSFM",
+      "UAEB3C73R": "UAEB3C73R",
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {
+      "4ae2f688846f7ee40ba8685c0d99187b": {
+        "type": "message",
+        "ts": "1524703267.000247",
+        "user": "UAD7P0ECT",
+        "text": "#Saúde"
+      },
+      "eabcd14234a23b3c6d16795ec098a2af": {
+        "type": "message",
+        "ts": "1524703466.000012",
+        "user": "UACLBUPNC",
+        "text": "Onde está o documento de requisitos? Quais deverão ser implementados hoje?"
+      },
+      "ac94577654742119ee38f8eed3f9daa6": {
+        "type": "message",
+        "ts": "1524703071.000198",
+        "user": "UAECVL9DM",
+        "text": "\u003c@UAECVL9DM\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "10926267e20d7b553e200917dca9bd08": {
+        "type": "message",
+        "ts": "1524703852.000030",
+        "user": "UADBLH5DG",
+        "text": "\u003c@UADBLH5DG\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "f8f382818b33edd67b0d7475b2386d26": {
+        "type": "message",
+        "ts": "1524693613.000491",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has renamed the channel from \"general\" to \"geral\"",
+        "subtype": "channel_name"
+      },
+      "826bc29aac638b27ee557f59c162d225": {
+        "type": "message",
+        "ts": "1524702752.000119",
+        "user": "UAD8ES2RZ",
+        "text": "\u003c@UAD8ES2RZ\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "c4379bd20238dcac6be52c8cf029e9fa": {
+        "type": "message",
+        "ts": "1524702204.000201",
+        "user": "UAD8B843V",
+        "text": "\u003c@UAD8B843V\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "368b54c0ea84a7651e00f97da2d38711": {
+        "type": "message",
+        "ts": "1524694798.000433",
+        "user": "UAD6QRPK5",
+        "text": "\u003c@UAD6QRPK5\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "aa31c3a5263da359c954340cda4ac098": {
+        "type": "message",
+        "ts": "1524694775.000043",
+        "user": "UAEB3C73R",
+        "text": "\u003c@UAEB3C73R\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "5a9a1453921819b7fe0566f6ef44ce58": {
+        "type": "message",
+        "ts": "1524693484.000320",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "216dc976b6bd958d6da7d577b1a588f9": {
+        "type": "message",
+        "ts": "1524703258.000008",
+        "user": "UAECVL9DM",
+        "text": "#espirro"
+      },
+      "8c2a1b8bccc2308ea04fa830d1f52df4": {
+        "type": "message",
+        "ts": "1524703066.000140",
+        "user": "UADFGDQS1",
+        "text": "\u003c@UADFGDQS1\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "b31ead4bacf62a55686be678f1a606ad": {
+        "type": "message",
+        "ts": "1524698933.000183",
+        "user": "UAD7P0ECT",
+        "text": "\u003c@UAD7P0ECT\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "654b5c58f007ce9871df5da081510a15": {
+        "type": "message",
+        "ts": "1524702895.000182",
+        "user": "UACLBUPNC",
+        "text": "\u003c@UACLBUPNC\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "e24e1ff828e0a515a1a162561fba6e13": {
+        "type": "message",
+        "ts": "1524703479.000218",
+        "user": "UACQW8QKB",
+        "text": "\u003c@UACQW8QKB\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "fb235e028e966e2afe933562893d8fdf": {
+        "type": "message",
+        "ts": "1524703242.000284",
+        "user": "UAD8HUYLB",
+        "text": "\u003c@UAD8HUYLB\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "50c77d92cc32a8165497dbacf1212fa2": {
+        "type": "message",
+        "ts": "1524702995.000161",
+        "user": "UAD8GCSFM",
+        "text": "\u003c@UAD8GCSFM\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "f8743b1e3c888e11b7a4911c59c7ad28": {
+        "type": "message",
+        "ts": "1524703159.000331",
+        "user": "UADFH0YJH",
+        "text": "\u003c@UADFH0YJH\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "d296c6f7d33df8092bc9ce58ae692071": {
+        "type": "message",
+        "ts": "1524703034.000202",
+        "user": "UACLCQU72",
+        "text": "\u003c@UACLCQU72\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "bb18306420088914975da79ff5be2fc7": {
+        "type": "message",
+        "ts": "1524705515.000091",
+        "user": "UAD560FD2",
+        "text": "\u003c@UAD560FD2\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "de92107304d598e7bfb716f09fc3cc7f": {
+        "type": "message",
+        "ts": "1524703168.000124",
+        "user": "UAECW859V",
+        "text": "\u003c@UAECW859V\u003e has joined the channel",
+        "subtype": "channel_join"
+      }
+    },
+    "tipoCanal": "CHANNEL"
+  },
+  "GAE68NK3Q": {
+    "id": "GAE68NK3Q",
+    "nome": "grupo4",
+    "hosts": {
+      "UAD8B843V": "UAD8B843V",
+      "UADFH0YJH": "UADFH0YJH",
+      "UACLBUPNC": "UACLBUPNC",
+      "UACQW8QKB": "UACQW8QKB",
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {
+      "2e779095200c4ded3746b8fd1b0b9502": {
+        "type": "message",
+        "ts": "1524705020.000269",
+        "user": "UACLBUPNC",
+        "text": "Apienas las vieweues"
+      },
+      "3e8c03d9138c7757721a774679b43f5f": {
+        "type": "message",
+        "ts": "1524706330.000055",
+        "user": "UACQW8QKB",
+        "text": "eu pulo pro de atividades entao"
+      },
+      "dad4f2adb49a59a25a45563e86a056cb": {
+        "type": "message",
+        "ts": "1524705961.000158",
+        "user": "UACLBUPNC",
+        "text": "Yo también"
+      },
+      "f6cb2053a59251acee1ca15e34646c1b": {
+        "type": "message",
+        "ts": "1524704495.000288",
+        "user": "UACLBUPNC",
+        "text": "Depois modelar a solução, projetar as mudanças no banco, caso haja e então implementar."
+      },
+      "28a2bd34b93ca023599272ea1a8fc4b7": {
+        "type": "message",
+        "ts": "1524705092.000023",
+        "user": "UACLBUPNC",
+        "text": "Apesar do ser o modelo cascate, já vou criar os protótipos"
+      },
+      "f02442c25974290e5f157e637c1b418d": {
+        "type": "message",
+        "ts": "1524704119.000253",
+        "user": "UADFH0YJH",
+        "text": ":sunglasses:"
+      },
+      "27e2f434538324d143c5d4b7b7d20578": {
+        "type": "message",
+        "ts": "1524706262.000292",
+        "user": "UADFH0YJH",
+        "text": "duego usted non ia hacer el actv diagram"
+      },
+      "fba98e6e8b9a6c6a8afa52d275dd4f56": {
+        "type": "message",
+        "ts": "1524705939.000145",
+        "user": "UACLBUPNC",
+        "text": "Hierros con la riede de la UE TUE EFUE PIE ERE"
+      },
+      "5f25a61468af6ea298fc71f04c1f194e": {
+        "type": "message",
+        "ts": "1524706226.000008",
+        "user": "UADFH0YJH",
+        "text": "o quié?"
+      },
+      "099ddc92fb64e69082f5afdc64ea23a1": {
+        "type": "message",
+        "ts": "1524706394.000215",
+        "user": "UADFH0YJH",
+        "text": "enton se fuede sózito daguto"
+      },
+      "ac82da3115971fb9034c1de58faf5b45": {
+        "type": "message",
+        "ts": "1524705295.000142",
+        "user": "UADFH0YJH",
+        "text": "fiz os req dentro da tabela de RF"
+      },
+      "adacd88beef6b9e74518aaa19d17f0e7": {
+        "type": "message",
+        "ts": "1524705434.000311",
+        "user": "UACLBUPNC",
+        "text": "Cuelma aue"
+      },
+      "acf1c1b6501a1e46da47265cb4910a46": {
+        "type": "message",
+        "ts": "1524705358.000123",
+        "user": "UACQW8QKB",
+        "text": "ok"
+      },
+      "a32d076fc372bfe488f70e6566dc08c9": {
+        "type": "message",
+        "ts": "1524704174.000330",
+        "user": "UADFH0YJH",
+        "text": "The Little é uesso hacer essas nuevas func?"
+      },
+      "87362a93cfddad15db3decfc5df4a802": {
+        "type": "message",
+        "ts": "1524706327.000014",
+        "user": "UADFH0YJH",
+        "text": "dá nueda non"
+      },
+      "880abd14d886eda187356e96404668e0": {
+        "type": "message",
+        "ts": "1524706181.000275",
+        "user": "UACQW8QKB",
+        "text": "ta quase saindo"
+      },
+      "72a722af8422e72413e09a97d2a583e9": {
+        "type": "message",
+        "ts": "1524705950.000271",
+        "user": "UACQW8QKB",
+        "text": "yo quiero trabajar"
+      },
+      "13d55af9f71a711a9d3515c015acee6e": {
+        "type": "message",
+        "ts": "1524706365.000155",
+        "user": "UACLBUPNC",
+        "text": "Já stas de buenas"
+      },
+      "5732a4a373d2a1748383f84810400c2e": {
+        "type": "message",
+        "ts": "1524705803.000287",
+        "user": "UADFH0YJH",
+        "text": "aí é fueda"
+      },
+      "f41f5b68371b452ee860469132659489": {
+        "type": "message",
+        "ts": "1524705410.000055",
+        "user": "UADFH0YJH",
+        "text": "puedes seres?"
+      },
+      "870c72a3219974a1ab6369900db1d4b2": {
+        "type": "message",
+        "ts": "1524704236.000056",
+        "user": "UACQW8QKB",
+        "text": "já esta compartilhado para nosotros"
+      },
+      "4bfe18f8ea2a95d85bf78c4c7e5ec8ea": {
+        "type": "message",
+        "ts": "1524704511.000056",
+        "user": "UADFH0YJH",
+        "text": "Alterei o titulo do doc"
+      },
+      "42626eea5e5a8db0f89f3fcdc79f7654": {
+        "type": "message",
+        "ts": "1524705367.000029",
+        "user": "UADFH0YJH",
+        "text": "\u003c@UACQW8QKB\u003e faz o diag. de activ"
+      },
+      "3ed6dbf83ead53161c46d4c76974c2e1": {
+        "type": "message",
+        "ts": "1524706300.000299",
+        "user": "UACQW8QKB",
+        "text": "fuedeu"
+      },
+      "e5d4ba628227224dfb9253e7fae48bd5": {
+        "type": "message",
+        "ts": "1524705809.000270",
+        "user": "UACLBUPNC",
+        "text": "No, yo stoy apienas prieviendo la interfuece"
+      },
+      "8a472a15ff14bcc6cdee599245d600cc": {
+        "type": "message",
+        "ts": "1524704294.000015",
+        "user": "UACQW8QKB",
+        "text": "se quiserem eu posso começar documentando esses requisitos já"
+      },
+      "e1f72812f217bed1a9e26b9ba92fdb79": {
+        "type": "message",
+        "ts": "1524705022.000117",
+        "user": "UADFH0YJH",
+        "text": "vierdá"
+      },
+      "37a5a08efb1219376ea6eff3923fbc0a": {
+        "type": "message",
+        "ts": "1524704410.000451",
+        "user": "UACQW8QKB",
+        "text": "conseguiram acessar la documentacion?"
+      },
+      "8ec2422333fc013d32cbbce4278190e0": {
+        "type": "message",
+        "ts": "1524706484.000196",
+        "user": "UADFH0YJH",
+        "text": "la casa és nuestra"
+      },
+      "0249e600ccae0e36ca87f94cca0de774": {
+        "type": "message",
+        "ts": "1524706279.000165",
+        "user": "UADFH0YJH",
+        "text": "í joy los cuesos del ueso"
+      },
+      "314069608d48fc9ee551cd592c585b11": {
+        "type": "message",
+        "ts": "1524704108.000208",
+        "user": "UACQW8QKB",
+        "text": "já vou compartilhar"
+      },
+      "107408a65255c771220eed74a07e1eab": {
+        "type": "message",
+        "ts": "1524704082.000219",
+        "user": "UADFH0YJH",
+        "text": "\u003c@UACQW8QKB\u003e temos que adicionar no documento esses dois req."
+      },
+      "6af65f85752cd62c28d0f3de46808aff": {
+        "type": "message",
+        "ts": "1524704489.000174",
+        "user": "UACQW8QKB",
+        "text": "\u003chttps://docs.google.com/document/d/1oAt0aBN9tvdutZpXbAyNCLUFtctuMQcHfCArOrrjlVE/edit?usp\u003dsharing\u003e"
+      },
+      "2ba51bdf2baaa122355b5727a96f2e2c": {
+        "type": "message",
+        "ts": "1524706061.000222",
+        "user": "UACLBUPNC",
+        "text": "\u003c@UACQW8QKB\u003e"
+      },
+      "02989c92d6e845291ea90139b7d71261": {
+        "type": "message",
+        "ts": "1524705270.000205",
+        "user": "UADFH0YJH",
+        "text": "sí"
+      },
+      "3ec8e7a478dea57b9f0a74af43c8b489": {
+        "type": "message",
+        "ts": "1524704464.000039",
+        "user": "UACLBUPNC",
+        "text": "Tem que especificar e validar os requisitos"
+      },
+      "8ae5d8f4630819a3d13b2d75ccda94b2": {
+        "type": "message",
+        "ts": "1524704202.000248",
+        "user": "UADFH0YJH",
+        "text": ":joy::joy:"
+      },
+      "a0658ed6b26461344c8d7872c2efa723": {
+        "type": "message",
+        "ts": "1524705892.000082",
+        "user": "UACLBUPNC",
+        "text": "\u003c@UACLBUPNC\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UACLBUPNC/FACLWSEM6/image.png|image.png\u003e",
+        "subtype": "file_share",
+        "username": "joaopaulopaez"
+      },
+      "ecf2f846c3046433316cacaf39483312": {
+        "type": "message",
+        "ts": "1524706265.000070",
+        "user": "UADFH0YJH",
+        "text": "???"
+      },
+      "9f23c49db5e3559e22f6728620cf7ac1": {
+        "type": "message",
+        "ts": "1524704336.000179",
+        "user": "UADFH0YJH",
+        "text": "pero qí non vejo otra opción"
+      },
+      "10395b48bcf0d4cc16c96f7e0c574de7": {
+        "type": "message",
+        "ts": "1524705424.000137",
+        "user": "UADFH0YJH",
+        "text": "Humanos"
+      },
+      "4bdab60e431ea64e1d9e1f9aac3c6428": {
+        "type": "message",
+        "ts": "1524705400.000001",
+        "user": "UADFH0YJH",
+        "text": "i joy irei hacer o del cueso del ueso"
+      },
+      "b7673a27ecf585a54e6327ddba8095fc": {
+        "type": "message",
+        "ts": "1524704366.000046",
+        "user": "UACQW8QKB",
+        "text": "tudo bien"
+      },
+      "df246bfdd43c5425dc565e4c19da321d": {
+        "type": "message",
+        "ts": "1524706355.000100",
+        "user": "UACLBUPNC",
+        "text": "Faz apienas los casos del ueso"
+      },
+      "a6d04ef8b3ff09c33f0b19b71f0ebe41": {
+        "type": "message",
+        "ts": "1524706377.000217",
+        "user": "UADFH0YJH",
+        "text": "pero usted estas zombando de mí cara"
+      },
+      "2b690e418cc24fa235e1b4cdd0ded0f4": {
+        "type": "message",
+        "ts": "1524705488.000067",
+        "user": "UADFH0YJH",
+        "text": "\u003c@UACLBUPNC\u003e"
+      },
+      "b51ed42c0af2fb3d9dcf4c38595f1d4d": {
+        "type": "message",
+        "ts": "1524705786.000238",
+        "user": "UADFH0YJH",
+        "text": "entón tiemos un impassie"
+      },
+      "0bf68b18c40d24109ef298f487b9b6a2": {
+        "type": "message",
+        "ts": "1524704898.000043",
+        "user": "UACQW8QKB",
+        "text": "los requisitos funcionales"
+      },
+      "51240c1b26a13f9bf8ad0dee45c78e04": {
+        "type": "message",
+        "ts": "1524704712.000042",
+        "user": "UACQW8QKB",
+        "text": "depois de especificar eu já faço os diagramas"
+      },
+      "e45a8b26f29da97580a35c385e1f30ab": {
+        "type": "message",
+        "ts": "1524706419.000034",
+        "user": "UACLBUPNC",
+        "text": "Vamos! Adelante Gruepo 4"
+      },
+      "d20a29a8e4b6ebbb91e3ca4ea8e282f4": {
+        "type": "message",
+        "ts": "1524705131.000123",
+        "user": "UACQW8QKB",
+        "text": "já posso ir fazendo os diagramas de caso de uso?"
+      },
+      "291a19b5bcf6b7546384c02fe69f8aba": {
+        "type": "message",
+        "ts": "1524706352.000235",
+        "user": "UADFH0YJH",
+        "text": "joy voi a los activ diagram"
+      },
+      "5993793e55d65310b1b3225d5a4a917f": {
+        "type": "message",
+        "ts": "1524705000.000090",
+        "user": "UACLBUPNC",
+        "text": "No"
+      },
+      "2e91a1da8ec0475bdccc2246c3b29e8e": {
+        "type": "message",
+        "ts": "1524704427.000223",
+        "user": "UACLBUPNC",
+        "text": "No"
+      },
+      "65368887b2e01d0902fc039e5d5c8269": {
+        "type": "message",
+        "ts": "1524705787.000204",
+        "user": "UACLBUPNC",
+        "text": "El cuempuetaduer tá de sacanagem cuemiego"
+      },
+      "6fdc39a6719b4380054b38e1cc5a586c": {
+        "type": "message",
+        "ts": "1524705760.000097",
+        "user": "UACLBUPNC",
+        "text": "Yes"
+      },
+      "a8dcc62079fca6ea2e8c8549e084a2d6": {
+        "type": "message",
+        "ts": "1524706398.000087",
+        "user": "UADFH0YJH",
+        "text": "kuekuekue"
+      },
+      "fd015c823e4f4451c1138d25353b8cba": {
+        "type": "message",
+        "ts": "1524704377.000045",
+        "user": "UADFH0YJH",
+        "text": "deited en spanhuelo"
+      },
+      "cca31ff113ccc00c332749740f5cea4d": {
+        "type": "message",
+        "ts": "1524705009.000150",
+        "user": "UACLBUPNC",
+        "text": "El diagruema non irá mudar."
+      },
+      "f6fa8fe3f37f6d9b78da86726bb95a82": {
+        "type": "message",
+        "ts": "1524706057.000232",
+        "user": "UACLBUPNC",
+        "text": "Fiez los casos del ueso?"
+      },
+      "2b9b03bd24b31dc1cd1f2896ad16d77c": {
+        "type": "message",
+        "ts": "1524705874.000030",
+        "user": "UADFH0YJH",
+        "text": "kuekuekue"
+      },
+      "b89e777c84df8f9277285694c600da9c": {
+        "type": "message",
+        "ts": "1524705438.000208",
+        "user": "UADFH0YJH",
+        "text": ":joy::joy::joy:"
+      },
+      "f2f6798379dede80bbe89a9e2becbe2a": {
+        "type": "message",
+        "ts": "1524704531.000015",
+        "user": "UACQW8QKB",
+        "text": "sí"
+      },
+      "6a7e570e4fecb2c818a6f391f5cec4ec": {
+        "type": "message",
+        "ts": "1524704519.000193",
+        "user": "UADFH0YJH",
+        "text": "vê se mudou galera?"
+      },
+      "023fd1a8c41fcc9aea07c5254bc4e834": {
+        "type": "message",
+        "ts": "1524705751.000122",
+        "user": "UADFH0YJH",
+        "text": "Segundo el modielo del prociesso, non puede hacer protuetipos antes del cueso del ueso"
+      },
+      "716d63dcd4371c4f5e68d83507f38d61": {
+        "type": "message",
+        "ts": "1524704863.000247",
+        "user": "UADFH0YJH",
+        "text": "To azeitoneited"
+      },
+      "e06207c21a3ba6a64f28c21b0bdece26": {
+        "type": "message",
+        "ts": "1524704387.000154",
+        "user": "UACQW8QKB",
+        "text": "kkkkkkk"
+      },
+      "954237617984f9bea9dc752174f2f681": {
+        "type": "message",
+        "ts": "1524704439.000218",
+        "user": "UACLBUPNC",
+        "text": "Cade o link?"
+      },
+      "f2cd278d0137bc87075f65799c693888": {
+        "type": "message",
+        "ts": "1524704994.000280",
+        "user": "UACLBUPNC",
+        "text": "Não"
+      },
+      "d0f8f19ae74ab0905d5d469b1169a155": {
+        "type": "message",
+        "ts": "1524706334.000248",
+        "user": "UADFH0YJH",
+        "text": "non"
+      },
+      "30b7b96bd4afff4ff33ffd7760996995": {
+        "type": "message",
+        "ts": "1524706335.000080",
+        "user": "UACQW8QKB",
+        "text": "dá nada nao"
+      },
+      "2951e8c3d488decc33ec118b6ef4982f": {
+        "type": "message",
+        "ts": "1524704080.000089",
+        "user": "UACLBUPNC",
+        "text": "É possível desenvolver essa funcionalidade sim"
+      },
+      "fadfb0ab3112c4a5635a7501094a9084": {
+        "type": "message",
+        "ts": "1524706619.000038",
+        "user": "UADFH0YJH",
+        "text": "partiu"
+      },
+      "881ffdadd873b6a28abe76ed01e49389": {
+        "type": "message",
+        "ts": "1524704844.000083",
+        "user": "UADFH0YJH",
+        "text": "especificar oq?"
+      },
+      "54bf2dfd23205da85dc835a526c636fc": {
+        "type": "message",
+        "ts": "1524704091.000160",
+        "user": "UADFH0YJH",
+        "text": "compartilha o link"
+      },
+      "cdc0bf0dc3bb802ceb978a0559348f85": {
+        "type": "message",
+        "ts": "1524704786.000286",
+        "user": "UACLBUPNC",
+        "text": "Ok"
+      },
+      "72255ad424432f67092b7dbc0296c9b8": {
+        "type": "message",
+        "ts": "1524705406.000230",
+        "user": "UACLBUPNC",
+        "text": "kkkkkkk"
+      },
+      "e1e179e776765bfebb18d8f1654a9c5f": {
+        "type": "message",
+        "ts": "1524704242.000205",
+        "user": "UACLBUPNC",
+        "text": "Tuedo bien"
+      },
+      "09d2aa709608fb82c2f6bf7209668e6e": {
+        "type": "message",
+        "ts": "1524706639.000068",
+        "user": "UACLBUPNC",
+        "text": "Adiós mi queriedos"
+      },
+      "f4c7da8d39081a2de76dfa220b87b204": {
+        "type": "message",
+        "ts": "1524706587.000241",
+        "user": "UACQW8QKB",
+        "text": "partiu gruepo?"
+      },
+      "6a38f1a4f5cef314e7ab6cb55a651ba1": {
+        "type": "message",
+        "ts": "1524705453.000022",
+        "user": "UADFH0YJH",
+        "text": "porquié?"
+      },
+      "af2627d588ad843dd1a84d050c725b1b": {
+        "type": "message",
+        "ts": "1524704221.000066",
+        "user": "UACLBUPNC",
+        "text": "La comunicación deverá ser realizueda en spañol en el gruepo"
+      },
+      "a151ee89e42ef831f4190231bc3855e0": {
+        "type": "message",
+        "ts": "1524704974.000226",
+        "user": "UADFH0YJH",
+        "text": "\u003c@UACLBUPNC\u003e"
+      },
+      "77137985b4f0c913b96750849521b418": {
+        "type": "message",
+        "ts": "1524706318.000043",
+        "user": "UADFH0YJH",
+        "text": "kuekuekue"
+      },
+      "6555fc01bcb4913ddab11e95eba8d736": {
+        "type": "message",
+        "ts": "1524704613.000143",
+        "user": "UACLBUPNC",
+        "text": "Dagumento"
+      },
+      "3e2746352861909be0960a8cbf85ed53": {
+        "type": "message",
+        "ts": "1524704837.000171",
+        "user": "UACLBUPNC",
+        "text": "E envie para o professor analisar se é isso que ele realmente deseja (validação de requisito)"
+      },
+      "bfc079a382b6a983a16f3f5f869b23bd": {
+        "type": "message",
+        "ts": "1524704611.000038",
+        "user": "UACLBUPNC",
+        "text": "yes"
+      },
+      "3c5ffcab0426c83037e973f2c4d30b6a": {
+        "type": "message",
+        "ts": "1524704853.000177",
+        "user": "UACQW8QKB",
+        "text": "ok"
+      },
+      "990d96c9567f1cf201dad6ec043cdd47": {
+        "type": "message",
+        "ts": "1524706387.000222",
+        "user": "UACLBUPNC",
+        "text": "La interface siera intuitieva"
+      },
+      "f8ebc09990ae885aeffe4f7bb46e4e0d": {
+        "type": "message",
+        "ts": "1524704795.000002",
+        "user": "UACLBUPNC",
+        "text": "Faça o de caso de uso só"
+      },
+      "290bb38ab4bb6c084385180efcf8163e": {
+        "type": "message",
+        "ts": "1524704354.000012",
+        "user": "UADFH0YJH",
+        "text": "tiemos qí começar aguera miesmo"
+      },
+      "3a6445e7caaaad4896797acc00d4906e": {
+        "type": "message",
+        "ts": "1524704189.000080",
+        "user": "UACLBUPNC",
+        "text": "Si"
+      },
+      "ca5d9b45532e3788afb0287084951309": {
+        "type": "message",
+        "ts": "1524706238.000013",
+        "user": "UADFH0YJH",
+        "text": "non crejo nisso"
+      },
+      "79a014a9a764bd99ab246e6b68aee066": {
+        "type": "message",
+        "ts": "1524704963.000246",
+        "user": "UADFH0YJH",
+        "text": "el diagrama, del modelo de BD irá mudiar?"
+      },
+      "d5590715efefdae2d49354eba13c48a8": {
+        "type": "message",
+        "ts": "1524704095.000238",
+        "user": "UADFH0YJH",
+        "text": "de nuevo"
+      },
+      "9be12b78d3af16f82370cba6e3960352": {
+        "type": "message",
+        "ts": "1524706046.000101",
+        "user": "UACLBUPNC",
+        "text": "Como estás lo andamiento?"
+      },
+      "2f9789d0b422614833a035ce9beeba5b": {
+        "type": "message",
+        "ts": "1524704209.000182",
+        "user": "UADFH0YJH",
+        "text": "fú fú"
+      },
+      "57127e4cd372a5dbfa68a7a7a2fa9372": {
+        "type": "message",
+        "ts": "1524704931.000243",
+        "user": "UADFH0YJH",
+        "text": "sí"
+      },
+      "10ea0130a58583b9052c92cc6ece5dc6": {
+        "type": "message",
+        "ts": "1524704989.000104",
+        "user": "UACLBUPNC",
+        "text": "Tamo seguindo o processo. Tamo na primeira fase ainda. Depois de verificar e atualizar o doc. de requisitos nós pulamos pra etapa de modelagem."
+      },
+      "144986671f7e27de2815725be6d37c28": {
+        "type": "message",
+        "ts": "1524705894.000231",
+        "user": "UACLBUPNC",
+        "text": "Oia que disgrueça"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DADBA1XDG": {
+    "id": "DADBA1XDG",
+    "nome": "direct_DADBA1XDG",
+    "hosts": {
+      "UAD8B843V": "UAD8B843V"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADBFE2KU": {
+    "id": "DADBFE2KU",
+    "nome": "direct_DADBFE2KU",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72"
+    },
+    "mensagens": {
+      "b7b8b46257fa719c7361d74ed493ef8f": {
+        "type": "message",
+        "ts": "1524704148.000250",
+        "user": "UAD6CL04T",
+        "text": "Oi, você não autorizou o monitoramento da comunicação, é só acessar aqui:\n\u003chttp://ddsutfpr.sa-east-1.elasticbeanstalk.com/\u003e\nE clicar \"Autorizar monitoramento\""
+      },
+      "f13de7d42abad955c2ef9d981516d9f2": {
+        "type": "message",
+        "ts": "1524704178.000232",
+        "user": "UACLCQU72",
+        "text": "Opa, perdão. Já fazendo isso"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAEAUPPJT": {
+    "id": "DAEAUPPJT",
+    "nome": "direct_DAEAUPPJT",
+    "hosts": {
+      "UADDFJLE9": "UADDFJLE9"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQUAGRF": {
+    "id": "DACQUAGRF",
+    "nome": "direct_DACQUAGRF",
+    "hosts": {
+      "UAECVL9DM": "UAECVL9DM"
+    },
+    "mensagens": {
+      "8a028ffd141a394ea92cdc1f9a45db2d": {
+        "type": "message",
+        "ts": "1524703580.000096",
+        "user": "UAECW859V",
+        "text": "entra ali no grupo arv"
+      },
+      "528a1e86dc188e41edb405c616663121": {
+        "type": "message",
+        "ts": "1524703569.000163",
+        "user": "UAECW859V",
+        "text": "hey"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAE89913Q": {
+    "id": "DAE89913Q",
+    "nome": "direct_DAE89913Q",
+    "hosts": {
+      "UAD8ES2RZ": "UAD8ES2RZ"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECY6N23": {
+    "id": "DAECY6N23",
+    "nome": "direct_DAECY6N23",
+    "hosts": {
+      "UACQW8QKB": "UACQW8QKB"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GACJ9DY2C": {
+    "id": "GACJ9DY2C",
+    "nome": "grupo2",
+    "hosts": {
+      "UAD8HUYLB": "UAD8HUYLB",
+      "UAD8B843V": "UAD8B843V",
+      "UAD6CL04T": "UAD6CL04T",
+      "UADBLH5DG": "UADBLH5DG"
+    },
+    "mensagens": {
+      "0277deb74cc61bf5e54434e4e9099eba": {
+        "type": "message",
+        "ts": "1524705322.000171",
+        "user": "UADBLH5DG",
+        "text": "aqui?"
+      },
+      "0a26bc71d28185c2a998bb77e270f6c1": {
+        "type": "message",
+        "ts": "1524705342.000041",
+        "user": "UAD6CL04T",
+        "text": "Isso"
+      },
+      "35beaa23874d0fc580b69f7ae9ed820b": {
+        "type": "message",
+        "ts": "1524703242.000274",
+        "user": "UAD8HUYLB",
+        "text": "\u003c@UAD8HUYLB\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "e422622e4e156c9787ca8e299c58d0b3": {
+        "type": "message",
+        "ts": "1524703081.000106",
+        "user": "UAD8B843V",
+        "text": "\u003c@UAD8B843V\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "67a74beed4f6558539c5ec80c9fa4ae4": {
+        "type": "message",
+        "ts": "1524693530.000390",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has joined the channel",
+        "subtype": "channel_join"
+      },
+      "9719e9f8fb3d7baf42e81db997583717": {
+        "type": "message",
+        "ts": "1524703852.000031",
+        "user": "UADBLH5DG",
+        "text": "\u003c@UADBLH5DG\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "a6e79f3b9098100178a1fa1b921eb6e9": {
+        "type": "message",
+        "ts": "1524693556.000003",
+        "user": "USLACKBOT",
+        "text": "This channel is now *private*, and can only be viewed or joined by invitation. Note: older messages might be inaccessible for a few minutes while this change is completed."
+      },
+      "88911f97dd6cb9f1da988b0fb659523f": {
+        "type": "message",
+        "ts": "1524705364.000088",
+        "user": "UADBLH5DG",
+        "text": "quais são os requisito?"
+      },
+      "2184348d88dc4032dd811d4e665a865a": {
+        "type": "message",
+        "ts": "1524693531.000041",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e set the channel purpose: Grupo 02",
+        "subtype": "channel_purpose"
+      },
+      "996e3206bdc8d33f959dac6863bba52f": {
+        "type": "message",
+        "ts": "1524705376.000152",
+        "user": "UAD6CL04T",
+        "text": "olá\nPreciso de duas novas funcionalidades no sistema.\n1 - Preciso de um relatório de usuários por domínio:\n\nExemplo:\n\n    @gmail.com\nuser1\nuser2\nuser3\nuser4\n    @hotmail.com\nusera\nuserb\nuserc\n\nPreciso visualizar na tela e também gerar um arquivo .txt\n\n\n2 -Preciso de um relatorio de e-mail enviados por dominio em um período de data;\nQuero informar a data inicial e final. o sistema retorna, por exemplo:\n\n@gmail.com \u003d\u0026gt; 12 mails\n@hotmail.com \u003d\u0026gt; 15 mails\n\nDeve ter opção de gerar um arquivo txt com os resultados e/ou exibir na tela."
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DAD560WUU": {
+    "id": "DAD560WUU",
+    "nome": "direct_DAD560WUU",
+    "hosts": {
+      "UAD560FD2": "UAD560FD2"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAEDB7NBH": {
+    "id": "DAEDB7NBH",
+    "nome": "direct_DAEDB7NBH",
+    "hosts": {
+      "UAD560FD2": "UAD560FD2"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQYJCDP": {
+    "id": "DACQYJCDP",
+    "nome": "direct_DACQYJCDP",
+    "hosts": {
+      "UADBLH5DG": "UADBLH5DG"
+    },
+    "mensagens": {
+      "edd9d7a7f863f11491ab748f8b94a490": {
+        "type": "message",
+        "ts": "1524705222.000096",
+        "user": "UAD6CL04T",
+        "text": "Oi"
+      },
+      "23cb2d53640d5c60b019c5164850657d": {
+        "type": "message",
+        "ts": "1524705294.000138",
+        "user": "UAD6CL04T",
+        "text": "são os requisitos"
+      },
+      "b4cec49c7a8322a7d1f2ffee40346fe6": {
+        "type": "message",
+        "ts": "1524705267.000260",
+        "user": "UADBLH5DG",
+        "text": "como eu pergunto para o professor, quais requisitos que ele quer que implemente"
+      },
+      "8dff2810c0bf78ed631fe05d9146d96d": {
+        "type": "message",
+        "ts": "1524705291.000085",
+        "user": "UAD6CL04T",
+        "text": "Certo, envie no channel do seu grupo, perguntando quais"
+      },
+      "cd19c7bf34ae813e8c7605e0327e145f": {
+        "type": "message",
+        "ts": "1524705269.000032",
+        "user": "UADBLH5DG",
+        "text": "?"
+      },
+      "dc0a3223ef93dbf909e52f500ebdb5a9": {
+        "type": "message",
+        "ts": "1524705207.000060",
+        "user": "UADBLH5DG",
+        "text": "fabrício"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADBLHBNE": {
+    "id": "DADBLHBNE",
+    "nome": "direct_DADBLHBNE",
+    "hosts": {
+      "UADBLH5DG": "UADBLH5DG"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADFH1KJ9": {
+    "id": "DADFH1KJ9",
+    "nome": "direct_DADFH1KJ9",
+    "hosts": {
+      "UADFH0YJH": "UADFH0YJH"
+    },
+    "mensagens": {
+      "5bbfd012a7155a587d15bf94af70a196": {
+        "type": "message",
+        "ts": "1524703911.000215",
+        "user": "UADFH0YJH",
+        "text": "Olá professor,\nvocê pode me informar qual seria os requisitos?"
+      },
+      "0fdcf6b4835d895f11e4c28ced309d22": {
+        "type": "message",
+        "ts": "1524703955.000230",
+        "user": "UAD8B843V",
+        "text": "Preciso de duas novas funcionalidades no sistema.\n1 - Preciso de um relatório de usuários por domínio:\n\nExemplo: \n\n\t@gmail.com\nuser1\nuser2\nuser3\nuser4\n\t@hotmail.com\nusera\nuserb\nuserc\n\nPreciso visualizar na tela e também gerar um arquivo .txt\n\n\n2 -Preciso de um relatorio de e-mail enviados por dominio em um período de data;\nQuero informar a data inicial e final. o sistema retorna, por exemplo:\n\n@gmail.com \u003d\u0026gt; 12 mails\n@hotmail.com \u003d\u0026gt; 15 mails\n\nDeve ter opção de gerar um arquivo txt com os resultados e/ou exibir na tela."
+      },
+      "c96b033d8718e9357b27f2a31ad4a787": {
+        "type": "message",
+        "ts": "1524703982.000185",
+        "user": "UADFH0YJH",
+        "text": "Ok, obrigado!"
+      },
+      "cf6e809806ae8f700b212729ce03cabc": {
+        "type": "message",
+        "ts": "1524703948.000044",
+        "user": "UADFH0YJH",
+        "text": "Ok."
+      },
+      "c4e47cc00171c5eb360e978bca79964f": {
+        "type": "message",
+        "ts": "1524703934.000074",
+        "user": "UAD8B843V",
+        "text": "Sim."
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAEARBG3Z": {
+    "id": "DAEARBG3Z",
+    "nome": "direct_DAEARBG3Z",
+    "hosts": {
+      "USLACKBOT": "USLACKBOT"
+    },
+    "mensagens": {
+      "9af00edeeeffde3518dd9a5e3a6abf43": {
+        "type": "message",
+        "ts": "1524693819.000414",
+        "user": "USLACKBOT",
+        "text": "\u003c@UADDFJLE9\u003e joined via your invite link! If you need to, you can \u003chttps://ddsutfpr.slack.com/admin/shared_invites|disable the invite link\u003e or \u003chttps://ddsutfpr.slack.com/admin|deactivate this new user\u003e."
+      },
+      "12915ad4589a36fec3f085f5bf022341": {
+        "type": "message",
+        "ts": "1524693819.000400",
+        "user": "USLACKBOT",
+        "text": "Right now anyone in your workspace can invite a new member. If you’d like, you can restrict that to just administrators.\n\u003cslack-action://BSLACKBOT/users-invites/invites-only-admins/restrict/|Only allow administrators to invite\u003e"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4RFNAG": {
+    "id": "DAD4RFNAG",
+    "nome": "direct_DAD4RFNAG",
+    "hosts": {
+      "UAD8HUYLB": "UAD8HUYLB"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GACJAJZNU": {
+    "id": "GACJAJZNU",
+    "nome": "grupo5",
+    "hosts": {
+      "UACLCQU72": "UACLCQU72",
+      "UAD8B843V": "UAD8B843V",
+      "UAD8GCSFM": "UAD8GCSFM",
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {
+      "d609cae581fa0650a18c4f631f24b162": {
+        "type": "message",
+        "ts": "1524702995.000120",
+        "user": "UAD8GCSFM",
+        "text": "\u003c@UAD8GCSFM\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "b35eec4e9d322c109e30caf84e6e44db": {
+        "type": "message",
+        "ts": "1524705051.000288",
+        "user": "UAD8B843V",
+        "text": "olá"
+      },
+      "05f6c223756461abe64a57b1fff247ee": {
+        "type": "message",
+        "ts": "1524706028.000241",
+        "user": "UACLCQU72",
+        "text": "De acordo com nossa base histórica de projetos, a implementação de cada funcionalidade deverá levar em torno de *04 dias*. O prazo máximo de entrega do projeto, portanto, será no dia *_03/05/18_*."
+      },
+      "73185f2a2548af15b451e77a8ac4b8ab": {
+        "type": "message",
+        "ts": "1524705072.000089",
+        "user": "UAD8B843V",
+        "text": "Preciso de duas novas funcionalidades no sistema.\n1 - Preciso de um relatório de usuários por domínio:\n\nExemplo: \n\n\t@gmail.com\nuser1\nuser2\nuser3\nuser4\n\t@hotmail.com\nusera\nuserb\nuserc\n\nPreciso visualizar na tela e também gerar um arquivo .txt\n\n\n2 -Preciso de um relatorio de e-mail enviados por dominio em um período de data;\nQuero informar a data inicial e final. o sistema retorna, por exemplo:\n\n@gmail.com \u003d\u0026gt; 12 mails\n@hotmail.com \u003d\u0026gt; 15 mails\n\nDeve ter opção de gerar um arquivo txt com os resultados e/ou exibir na tela."
+      },
+      "703f26ac5cda4d59d4731d9d3549ac16": {
+        "type": "message",
+        "ts": "1524703034.000196",
+        "user": "UACLCQU72",
+        "text": "\u003c@UACLCQU72\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "be8f0ed37cc9f04b6014d53ab35be33c": {
+        "type": "message",
+        "ts": "1524704717.000111",
+        "user": "UACLCQU72",
+        "text": "\u003c@UACLCQU72\u003e \u003c@UAD8GCSFM\u003e \u003c@UAD8B843V\u003e \u003c@UAD6CL04T\u003e :slightly_smiling_face:"
+      },
+      "4e7aee3670340d9e9a56de4e8daa50bd": {
+        "type": "message",
+        "ts": "1524704287.000090",
+        "user": "UACLCQU72",
+        "text": "Eu, Caio, sou o gerente do projeto, enquanto que a Cintia assume o papel de desenvolvedora e tester. \n\nGostaríamos de saber, inicialmente, qual é o problema a ser abordado e que tipo de soluções ou ideias existem."
+      },
+      "89cf5774a6e603c98b4bd517eb35106d": {
+        "type": "message",
+        "ts": "1524706128.000164",
+        "user": "UACLCQU72",
+        "text": "Se o cliente (\u003c@UAD8B843V\u003e) estiver de acordo, iniciaremos a elaboração do documento de requisitos."
+      },
+      "aa198b1fd792afc95292ba370a4e76c9": {
+        "type": "message",
+        "ts": "1524693663.000325",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "1987ba5112cb84db12b26f69bd824012": {
+        "type": "message",
+        "ts": "1524706227.000098",
+        "user": "UACLCQU72",
+        "text": "Existem algumas dúvidas da equipe de implementação (\u003c@UAD8GCSFM\u003e):\n\n_- Existe alguma especificação de linguagem de programação para a implementação das funcionalidades?_"
+      },
+      "0fcfc4c812970ad2dcab794b3865eb23": {
+        "type": "message",
+        "ts": "1524705921.000167",
+        "user": "UACLCQU72",
+        "text": "Portanto, os requisitos funcionais a serem implementados ao sistema são:\n\n*RF01:* O sistema deverá gerar um relatório de lista de usuários, classificado por domínio.\n\n*RF02:* O sistema deverá gerar um relatório de e-mails enviados por domínio em uma determinada data.\n\nE quanto a alguns requisitos não-funcionais:\n\n*RNF01:* Os relatórios deverão ser gerados na extensão .txt"
+      },
+      "5e18f3bb7a711405262137e334d02968": {
+        "type": "message",
+        "ts": "1524704034.000051",
+        "user": "UACLCQU72",
+        "text": "\u003c@UACLCQU72\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UACLCQU72/FACQZNAV7/trabalho_a_-_parte_1.pdf|Documento de Processo - Grupo 05.pdf\u003e and commented: Boa noite.\nNós somos do Grupo 05. Nosso documento de projeto está disponível neste arquivo:",
+        "subtype": "file_share",
+        "username": "caiothizio"
+      },
+      "013738faad3543e4d466178169ecc3b3": {
+        "type": "message",
+        "ts": "1524703100.000113",
+        "user": "UAD8B843V",
+        "text": "\u003c@UAD8B843V\u003e has joined the group",
+        "subtype": "group_join"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DAD2L5SA0": {
+    "id": "DAD2L5SA0",
+    "nome": "direct_DAD2L5SA0",
+    "hosts": {
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECY6PB9": {
+    "id": "DAECY6PB9",
+    "nome": "direct_DAECY6PB9",
+    "hosts": {
+      "UACQW8QKB": "UACQW8QKB"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADBLHG7L": {
+    "id": "DADBLHG7L",
+    "nome": "direct_DADBLHG7L",
+    "hosts": {
+      "UADBLH5DG": "UADBLH5DG"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD8FPQ2F": {
+    "id": "DAD8FPQ2F",
+    "nome": "direct_DAD8FPQ2F",
+    "hosts": {
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4QDDK6": {
+    "id": "DAD4QDDK6",
+    "nome": "direct_DAD4QDDK6",
+    "hosts": {
+      "UAECVL9DM": "UAECVL9DM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACL7D0D6": {
+    "id": "DACL7D0D6",
+    "nome": "direct_DACL7D0D6",
+    "hosts": {
+      "UAD8B843V": "UAD8B843V"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQTNLQ1": {
+    "id": "DACQTNLQ1",
+    "nome": "direct_DACQTNLQ1",
+    "hosts": {
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE8G5DFG": {
+    "id": "DAE8G5DFG",
+    "nome": "direct_DAE8G5DFG",
+    "hosts": {
+      "UADBLH5DG": "UADBLH5DG"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACQUANG1": {
+    "id": "DACQUANG1",
+    "nome": "direct_DACQUANG1",
+    "hosts": {
+      "UAECW859V": "UAECW859V"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECQ13RD": {
+    "id": "DAECQ13RD",
+    "nome": "direct_DAECQ13RD",
+    "hosts": {
+      "UAD7P0ECT": "UAD7P0ECT"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECW6LUF": {
+    "id": "DAECW6LUF",
+    "nome": "direct_DAECW6LUF",
+    "hosts": {
+      "UADFH0YJH": "UADFH0YJH"
+    },
+    "mensagens": {
+      "5b5217ffd695be84c7d0221005a6dbc1": {
+        "type": "message",
+        "ts": "1524704270.000256",
+        "user": "UAD6CL04T",
+        "text": "hahahaha :wink:"
+      },
+      "0e7d70b639a7cd33e30eda4c03715d3b": {
+        "type": "message",
+        "ts": "1524704259.000064",
+        "user": "UADFH0YJH",
+        "text": "Sim, foi mau kkk"
+      },
+      "e395dbb57b4966447f443cfc0e511ecb": {
+        "type": "message",
+        "ts": "1524704278.000269",
+        "user": "UADFH0YJH",
+        "text": "Acho q foi"
+      },
+      "76bc3a2dbe283f77ca1f91d63b1522fa": {
+        "type": "message",
+        "ts": "1524704236.000005",
+        "user": "UAD6CL04T",
+        "text": "Oi, você não autorizou o monitoramento da comunicação, é só acessar aqui:\n\u003chttp://ddsutfpr.sa-east-1.elasticbeanstalk.com/\u003e\nE clicar \"Autorizar monitoramento\""
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD2Y64H2": {
+    "id": "DAD2Y64H2",
+    "nome": "direct_DAD2Y64H2",
+    "hosts": {
+      "UAEB3C73R": "UAEB3C73R"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DACLDL4TS": {
+    "id": "DACLDL4TS",
+    "nome": "direct_DACLDL4TS",
+    "hosts": {
+      "UAECW859V": "UAECW859V"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAECTKJEB": {
+    "id": "DAECTKJEB",
+    "nome": "direct_DAECTKJEB",
+    "hosts": {
+      "UAD8ES2RZ": "UAD8ES2RZ"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD2YBKV2": {
+    "id": "DAD2YBKV2",
+    "nome": "direct_DAD2YBKV2",
+    "hosts": {
+      "UAD6QRPK5": "UAD6QRPK5"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE898Z6J": {
+    "id": "DAE898Z6J",
+    "nome": "direct_DAE898Z6J",
+    "hosts": {
+      "UAD8ES2RZ": "UAD8ES2RZ"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAE7HBEBY": {
+    "id": "DAE7HBEBY",
+    "nome": "direct_DAE7HBEBY",
+    "hosts": {
+      "UAD7P0ECT": "UAD7P0ECT"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "GAD2WTTGU": {
+    "id": "GAD2WTTGU",
+    "nome": "teste",
+    "hosts": {
+      "UAD6QRPK5": "UAD6QRPK5",
+      "UAEB3C73R": "UAEB3C73R",
+      "UAD6CL04T": "UAD6CL04T"
+    },
+    "mensagens": {
+      "61e0dda17c312f463a75242bc1cc90c1": {
+        "type": "message",
+        "ts": "1524694775.000024",
+        "user": "UAEB3C73R",
+        "text": "\u003c@UAEB3C73R\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "a10d2403676fb12f25c22b9656cc8236": {
+        "type": "message",
+        "ts": "1524694866.000053",
+        "user": "UAD6QRPK5",
+        "text": "oi"
+      },
+      "d0f463c7461e2b6c4c3670d7cae42292": {
+        "type": "message",
+        "ts": "1524694868.000038",
+        "user": "UAEB3C73R",
+        "text": "oi"
+      },
+      "2f1786bf6e147631223f4268f48cebfa": {
+        "type": "message",
+        "ts": "1524694798.000411",
+        "user": "UAD6QRPK5",
+        "text": "\u003c@UAD6QRPK5\u003e has joined the group",
+        "subtype": "group_join"
+      },
+      "0547708f1051a9d069441ea551304a13": {
+        "type": "message",
+        "ts": "1524694629.000409",
+        "user": "UAD6CL04T",
+        "text": "\u003c@UAD6CL04T\u003e has joined the group",
+        "subtype": "group_join"
+      }
+    },
+    "tipoCanal": "GROUP"
+  },
+  "DADFK19JR": {
+    "id": "DADFK19JR",
+    "nome": "direct_DADFK19JR",
+    "hosts": {
+      "UACQW8QKB": "UACQW8QKB"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DAD4QV7M2": {
+    "id": "DAD4QV7M2",
+    "nome": "direct_DAD4QV7M2",
+    "hosts": {
+      "UADFH0YJH": "UADFH0YJH"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADBG9GJE": {
+    "id": "DADBG9GJE",
+    "nome": "direct_DADBG9GJE",
+    "hosts": {
+      "UAECW859V": "UAECW859V"
+    },
+    "mensagens": {
+      "156ce712ffae78b3b826184ae2f4b7c7": {
+        "type": "message",
+        "ts": "1524703458.000025",
+        "user": "UAECW859V",
+        "text": "ok"
+      },
+      "e8632129a0c7951b9cac31f58f9c5f8a": {
+        "type": "message",
+        "ts": "1524703450.000091",
+        "user": "UAECW859V",
+        "text": "deu certo isso, né"
+      },
+      "826d799796d4fe2b28bc21e9064f3207": {
+        "type": "message",
+        "ts": "1524703464.000218",
+        "user": "UAECW859V",
+        "text": "vou abrir o processo"
+      },
+      "829cf4d73348140d8eba3ce5e0bfa690": {
+        "type": "message",
+        "ts": "1524703440.000048",
+        "user": "UAECW859V",
+        "text": "pronto?"
+      },
+      "8c2c343252fe7674c2f17e9ee137517e": {
+        "type": "message",
+        "ts": "1524703451.000167",
+        "user": "UAECW859V",
+        "text": "?"
+      },
+      "2320c9ea71ce9c7051e6b922d4eeefb2": {
+        "type": "message",
+        "ts": "1524703454.000138",
+        "user": "UAD7P0ECT",
+        "text": "Deu"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAD8GCZLK": {
+    "id": "DAD8GCZLK",
+    "nome": "direct_DAD8GCZLK",
+    "hosts": {
+      "UAD8GCSFM": "UAD8GCSFM"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADBEHX42": {
+    "id": "DADBEHX42",
+    "nome": "direct_DADBEHX42",
+    "hosts": {
+      "UACLBUPNC": "UACLBUPNC"
+    },
+    "mensagens": {
+      "89572c4b843501766e7b4fccb3b29d2f": {
+        "type": "message",
+        "ts": "1524704270.000264",
+        "user": "UACLBUPNC",
+        "text": "Pronto"
+      },
+      "5f8fe9a3d64dfc7057faa2906de8df48": {
+        "type": "message",
+        "ts": "1524704229.000339",
+        "user": "UAD6CL04T",
+        "text": "Oi, você não autorizou o monitoramento da comunicação, é só acessar aqui:\n\u003chttp://ddsutfpr.sa-east-1.elasticbeanstalk.com/\u003e\nE clicar \"Autorizar monitoramento\""
+      },
+      "0276044bdfb4905ddb92a9880943d621": {
+        "type": "message",
+        "ts": "1524704274.000065",
+        "user": "UAD6CL04T",
+        "text": ":wink:"
+      },
+      "a2a2b8aa62c14dbf90c3d87362e1f9ba": {
+        "type": "message",
+        "ts": "1524704277.000139",
+        "user": "UACLBUPNC",
+        "text": "Valeu"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DAE85KXCN": {
+    "id": "DAE85KXCN",
+    "nome": "direct_DAE85KXCN",
+    "hosts": {
+      "USLACKBOT": "USLACKBOT"
+    },
+    "mensagens": {
+      "5668d83c0305be9b901d49c60b8c7400": {
+        "type": "message",
+        "ts": "1524702218.000280",
+        "user": "USLACKBOT",
+        "text": "If you\u0027re not sure how to do something in Slack, *just type your question below*. \r\n\r\nOr press these buttons to learn about the following topics:",
+        "subtype": "bot_message",
+        "username": "slackbot"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADBA20HY": {
+    "id": "DADBA20HY",
+    "nome": "direct_DADBA20HY",
+    "hosts": {
+      "UADDFJLE9": "UADDFJLE9"
+    },
+    "mensagens": {},
+    "tipoCanal": "DIRECT"
+  },
+  "DADFG0KNZ": {
+    "id": "DADFG0KNZ",
+    "nome": "direct_DADFG0KNZ",
+    "hosts": {
+      "UAD8GCSFM": "UAD8GCSFM"
+    },
+    "mensagens": {
+      "5a93d878016ff4105fd855964eec3518": {
+        "type": "message",
+        "ts": "1524704316.000043",
+        "user": "UAD8GCSFM",
+        "text": "oii, prontinho"
+      },
+      "151bd78f46f328cb44d81c40e540e87e": {
+        "type": "message",
+        "ts": "1524704215.000248",
+        "user": "UAD6CL04T",
+        "text": "Oi, você não autorizou o monitoramento da comunicação, é só acessar aqui:\n\u003chttp://ddsutfpr.sa-east-1.elasticbeanstalk.com/\u003e\nE clicar \"Autorizar monitoramento\""
+      }
+    },
+    "tipoCanal": "DIRECT"
+  },
+  "DADBFMHV0": {
+    "id": "DADBFMHV0",
+    "nome": "direct_DADBFMHV0",
+    "hosts": {
+      "UAECVL9DM": "UAECVL9DM"
+    },
+    "mensagens": {
+      "e73a8ae2207f74b3f911320e87f1d7be": {
+        "type": "message",
+        "ts": "1524703714.000017",
+        "user": "UAECVL9DM",
+        "text": "Ah ta kk"
+      },
+      "489f5aea40a8262e82090323b507bdf7": {
+        "type": "message",
+        "ts": "1524703236.000079",
+        "user": "UAECVL9DM",
+        "text": "Acho que só no drive man"
+      },
+      "e981368738968d9b43b3c19b9f657ae7": {
+        "type": "message",
+        "ts": "1524703566.000158",
+        "user": "UAD7P0ECT",
+        "text": "Eu perguntei por que se não tivesse eu mandava, na verdade"
+      },
+      "a971a13a5fb3dc930534f8c4d212f3b6": {
+        "type": "message",
+        "ts": "1524703549.000286",
+        "user": "UAECVL9DM",
+        "text": "\u003c@UAECVL9DM\u003e uploaded a file: \u003chttps://ddsutfpr.slack.com/files/UAECVL9DM/FADFKE8MT/processosoftware1.jpeg|ProcessoSoftware1.jpeg\u003e",
+        "subtype": "file_share",
+        "username": "amilton"
+      },
+      "8e1741b2953986702d92d50b82551ded": {
+        "type": "message",
+        "ts": "1524703216.000279",
+        "user": "UAD7P0ECT",
+        "text": "E aí mister"
+      },
+      "a93e4d55e65206ad2256b38925bf35af": {
+        "type": "message",
+        "ts": "1524703223.000258",
+        "user": "UAD7P0ECT",
+        "text": "Tu tens o processo aí?"
+      }
+    },
+    "tipoCanal": "DIRECT"
+  }
+}

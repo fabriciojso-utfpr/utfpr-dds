@@ -1,0 +1,115 @@
+{
+  "description": "Projeto de teste2",
+  "sites": [
+    {
+      "description": "Equipe 01",
+      "birth": {
+        "year": 2018,
+        "month": 4,
+        "dayOfMonth": 8,
+        "hourOfDay": 22,
+        "minute": 12,
+        "second": 49
+      },
+      "geocoors": {
+        "latitude": -23.1869224,
+        "longitude": -50.659025
+      },
+      "collaborators": [
+        {
+          "name": "Fabricio Oliveira",
+          "email": "fabricio.jhonata@gmail.com"
+        },
+        {
+          "name": "Tiago Pagotto",
+          "email": "pagotto@alunos.utfpr.edu.br"
+        }
+      ]
+    }
+  ],
+  "seTools": [
+    {
+      "name": "Slack"
+    }
+  ],
+  "communicationUnits": [
+    {
+      "menssages": [
+        {
+          "seTool": {
+            "name": "Slack"
+          },
+          "collaborator": {
+            "name": "Fabricio Oliveira",
+            "email": "fabricio.jhonata@gmail.com"
+          },
+          "content": {
+            "content": "Bom dia",
+            "type": "TEXT"
+          },
+          "datetime": {
+            "year": 2018,
+            "month": 4,
+            "dayOfMonth": 8,
+            "hourOfDay": 22,
+            "minute": 12,
+            "second": 49
+          }
+        },
+        {
+          "seTool": {
+            "name": "Slack"
+          },
+          "collaborator": {
+            "name": "Fabricio Oliveira",
+            "email": "fabricio.jhonata@gmail.com"
+          },
+          "content": {
+            "content": "Tudo bem com você?",
+            "type": "TEXT"
+          },
+          "datetime": {
+            "year": 2018,
+            "month": 4,
+            "dayOfMonth": 8,
+            "hourOfDay": 22,
+            "minute": 12,
+            "second": 49
+          }
+        },
+        {
+          "seTool": {
+            "name": "Slack"
+          },
+          "collaborator": {
+            "name": "Tiago Pagotto",
+            "email": "pagotto@alunos.utfpr.edu.br"
+          },
+          "content": {
+            "content": "Opa! Bom dia",
+            "type": "TEXT"
+          },
+          "datetime": {
+            "year": 2018,
+            "month": 4,
+            "dayOfMonth": 8,
+            "hourOfDay": 22,
+            "minute": 12,
+            "second": 49
+          }
+        }
+      ],
+      "hosts": [
+        {
+          "name": "Tiago Pagotto",
+          "email": "pagotto@alunos.utfpr.edu.br"
+        },
+        {
+          "name": "Fabricio Oliveira",
+          "email": "fabricio.jhonata@gmail.com"
+        }
+      ],
+      "type": "DIRECT"
+    }
+  ]
+}
