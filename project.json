@@ -5,28 +5,24 @@
       "description": "Equipe 01",
       "birth": {
         "year": 2018,
-        "month": 4,
-        "dayOfMonth": 9,
-        "hourOfDay": 4,
-        "minute": 45,
-        "second": 21
+        "month": 5,
+        "dayOfMonth": 8,
+        "hourOfDay": 13,
+        "minute": 49,
+        "second": 43
       },
       "geocoors": {
         "latitude": -23.1869224,
-        "longitude": -50.659025
+        "Integeritude": -50.659025
       },
       "collaborators": [
         {
           "name": "Fabricio Oliveira",
-          "email": "fabricio.jhonata@gmail.com",
-          "communicationUnits": [],
-          "tools": []
+          "email": "fabricio.jhonata@gmail.com"
         },
         {
           "name": "Tiago Pagotto",
-          "email": "pagotto@alunos.utfpr.edu.br",
-          "communicationUnits": [],
-          "tools": []
+          "email": "pagotto@alunos.utfpr.edu.br"
         }
       ]
     }
@@ -45,9 +41,7 @@
           },
           "collaborator": {
             "name": "Fabricio Oliveira",
-            "email": "fabricio.jhonata@gmail.com",
-            "communicationUnits": [],
-            "tools": []
+            "email": "fabricio.jhonata@gmail.com"
           },
           "content": {
             "content": "Bom dia",
@@ -55,11 +49,11 @@
           },
           "datetime": {
             "year": 2018,
-            "month": 4,
-            "dayOfMonth": 9,
-            "hourOfDay": 4,
-            "minute": 45,
-            "second": 21
+            "month": 5,
+            "dayOfMonth": 8,
+            "hourOfDay": 13,
+            "minute": 49,
+            "second": 43
           }
         },
         {
@@ -68,9 +62,7 @@
           },
           "collaborator": {
             "name": "Fabricio Oliveira",
-            "email": "fabricio.jhonata@gmail.com",
-            "communicationUnits": [],
-            "tools": []
+            "email": "fabricio.jhonata@gmail.com"
           },
           "content": {
             "content": "Tudo bem com você?",
@@ -78,11 +70,11 @@
           },
           "datetime": {
             "year": 2018,
-            "month": 4,
-            "dayOfMonth": 9,
-            "hourOfDay": 4,
-            "minute": 45,
-            "second": 21
+            "month": 5,
+            "dayOfMonth": 8,
+            "hourOfDay": 13,
+            "minute": 49,
+            "second": 43
           }
         },
         {
@@ -91,9 +83,7 @@
           },
           "collaborator": {
             "name": "Tiago Pagotto",
-            "email": "pagotto@alunos.utfpr.edu.br",
-            "communicationUnits": [],
-            "tools": []
+            "email": "pagotto@alunos.utfpr.edu.br"
           },
           "content": {
             "content": "Opa! Bom dia",
@@ -101,26 +91,22 @@
           },
           "datetime": {
             "year": 2018,
-            "month": 4,
-            "dayOfMonth": 9,
-            "hourOfDay": 4,
-            "minute": 45,
-            "second": 21
+            "month": 5,
+            "dayOfMonth": 8,
+            "hourOfDay": 13,
+            "minute": 49,
+            "second": 43
           }
         }
       ],
       "hosts": [
         {
           "name": "Tiago Pagotto",
-          "email": "pagotto@alunos.utfpr.edu.br",
-          "communicationUnits": [],
-          "tools": []
+          "email": "pagotto@alunos.utfpr.edu.br"
         },
         {
           "name": "Fabricio Oliveira",
-          "email": "fabricio.jhonata@gmail.com",
-          "communicationUnits": [],
-          "tools": []
+          "email": "fabricio.jhonata@gmail.com"
         }
       ],
       "type": "DIRECT"

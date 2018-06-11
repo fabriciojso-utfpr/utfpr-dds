@@ -1,59 +1,109 @@
 package com.dds.real;
 
-import com.dds.model.Collaborator;
-import com.dds.model.Coordinates;
-import com.dds.model.Project;
-import com.dds.model.Site;
-import com.dds.model.Slack;
-import com.dds.scrapper.slack.SlackScrapper;
+import allbegray.slack.exception.SlackResponseErrorException;
+import allbegray.slack.type.Message;
+import com.dds.DAO.CommunicationUnitDAO;
+import com.dds.DAO.ProjectDAO;
+import com.dds.model.*;
+import com.dds.scrapper.slack.Canal;
+import com.dds.scrapper.slack.ChannelScrapper;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.TimeZone;
+import jdk.nashorn.internal.objects.Global;
 import org.junit.*;
 
 public class ComunicacaoRealTest {
-    
-    @Test
-    public void testGrupo01() throws IOException{
-        Project fabrica = new Project("Fabrica de software distribuida");
-        
-        Site grupo1 = new Site("Equipe 01", Calendar.getInstance(), new Coordinates(-1000.20, -20000.00));
-        fabrica.addSite(grupo1);
-        
-        Collaborator fabricio, amilton, renato, vinicius, alexandre;
-        
-        fabricio = new Collaborator("Fabricio Oliveira", "fabricio.jhonata@gmail.com");
-        fabricio.addTool(new Slack("UAD6CL04T", "xoxp-353216679731-353216680163-353357000178-494014014ff1c07e4eca75dd6d9768ca"));
-        
-        amilton = new Collaborator("Amilton Junior", "amilton@alunos.utfpr.edu.br");
-        amilton.addTool(new Slack("UAECVL9DM", "xoxp-353216679731-354437689463-353389889234-b357415f0c837c63373bd469fcfc1d98"));
-        
-        renato = new Collaborator("Renato Candido", "renatinhu_barbosa@hotmail.com");
-        renato.addTool(new Slack("UAECW859V", "xoxp-353216679731-354438277335-353164673716-7c26e4fffc3d3cd9a9b77badacacb62d"));
-        
-        vinicius = new Collaborator("Vinicius Soares", "vsoares@alunos.utfpr.edu.br");
-        vinicius.addTool(new Slack("UAD7P0ECT", "xoxp-353216679731-353261014435-353159024612-c6b61501d05f58208dd98c578d2b9100"));
-        
-        alexandre = new Collaborator("Alexandre Lerario", "alerario@gmail.com");
-        alexandre.addTool(new Slack("UAD8B843V", "xoxp-353216679731-353283276131-353283491331-ac6cd002fc1375610eabf41c1d91a3d2"));
-        
-        grupo1.addCollaborator(amilton);
-        grupo1.addCollaborator(renato);
-        grupo1.addCollaborator(vinicius);
-        grupo1.addCollaborator(alexandre);
-        grupo1.addCollaborator(fabricio);
-        
-        
-        SlackScrapper scrapper = new SlackScrapper(fabrica);
 
-        /*Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        String json = gson.toJson(scrapper.build());
+    private HashMap<String, Collaborator> collaboratorsWithSlackId = new HashMap<>();
+    private HashMap<String, Slack> slackWithId = new HashMap<>();
+
+    @Test
+    public void testGrupo01() {
+        ProjectDAO dao = new ProjectDAO();
+        Project project = dao.find(6);
+
+        for (Site site : project.getSites()) {
+            for (Collaborator collaborator : site.getCollaborators()) {
+                for (SETool tool : collaborator.getTools()) {
+                    if (tool instanceof Slack) {
+                        Slack slack = (Slack) tool;
+                        collaboratorsWithSlackId.put(slack.getSlackID(), collaborator);
+                        slackWithId.put(slack.getSlackID(), slack);
+
+                        try {
+                            ChannelScrapper api = new ChannelScrapper(slack.getToken(), slack.getSlackID());
+                        } catch (SlackResponseErrorException e) {
+                            System.out.println("error: " + collaborator.getName());
+                        }
+
+                    }
+                }
+            }
+
+        }
+       
+        List<CommunicationUnit> coms = this.create();
         
-        FileWriter fileWriter = new FileWriter("canal.json");
-        fileWriter.write(json);
-        fileWriter.close();
-*/
+        for(CommunicationUnit c : coms){
+            new CommunicationUnitDAO().save(c);
+        }
     }
+
+    private List<CommunicationUnit> create() {
+        List<CommunicationUnit> coms = new ArrayList<>();
+        for (Map.Entry<String, Canal> itemCanal : ChannelScrapper.getChannels().entrySet()) {
+            Canal canal = itemCanal.getValue();
+
+            CommunicationUnit communicationUnit = new CommunicationUnit(canal.getTipoCanal());
+
+            for (Map.Entry<String, Message> itemMessage : canal.getMensagens().entrySet()) {
+                Message message = itemMessage.getValue();
+                Calendar calendar = Calendar.getInstance();
+                
+                for(Map.Entry<String, String> hostsItem : canal.getHosts().entrySet()){
+                    communicationUnit.addHost(collaboratorsWithSlackId.get(hostsItem.getValue()));
+                }
+                
+                
+  
+                
+                communicationUnit
+                        .addMessage(new MessageItem(
+                                collaboratorsWithSlackId.get(message.getUser()) != null ? collaboratorsWithSlackId.get(message.getUser()).getTools().get(0) : null,
+                                collaboratorsWithSlackId.get(message.getUser()),
+                                new Content(message.getText(), message.getType().equals("message") ? TypeContent.TEXT : TypeContent.FILE),
+                                timestampToCalendar(message.getTs())
+                        ));
+                
+            }
+
+            coms.add(communicationUnit);
+        }
+
+        return coms;
+    }
+
+
+    public static Calendar timestampToCalendar(String ts) {
+        Double dou = Double.parseDouble(ts);
+        Date date = new Date((long) (dou * 1000L));
+        SimpleDateFormat jdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss z");
+        jdf.setTimeZone(TimeZone.getTimeZone("America/Sao_Paulo"));
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(date);
+        return calendar;
+    }
+
+
 }

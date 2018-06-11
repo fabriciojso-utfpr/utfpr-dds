@@ -9,31 +9,27 @@ import javax.persistence.*;
 public class Collaborator {
     
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Integer id;
     
     private String name;
     private String email;
-    
-    @ManyToMany(mappedBy = "communicationUnit")
-    private List<CommunicationUnit> communicationUnits = new ArrayList<>();
-    
+   
+    @ManyToMany(cascade = CascadeType.MERGE)
     private List<SETool> tools = new ArrayList<>();
+    
+    public Collaborator() { }
 
     public Collaborator(String name, String email) {
         this.name = name;
         this.email = email;
     }    
 
-    public List<CommunicationUnit> getCommunicationUnits() {
-        return communicationUnits;
-    }
-    
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

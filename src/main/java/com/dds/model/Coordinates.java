@@ -1,18 +1,21 @@
 package com.dds.model;
 
+import javax.persistence.*;
 
+@Embeddable
 public class Coordinates {
     
     private double latitude;
-    private double longitude;
+    private double Integeritude;
+    
+    public Coordinates() { }
 
-    public Coordinates(double latitude, double longitude) {
+    public Coordinates(double latitude, double Integeritude) {
         this.latitude = latitude;
-        this.longitude = longitude;
+        this.Integeritude = Integeritude;
     }
-    
-    
 
+    
     public double getLatitude() {
         return latitude;
     }
@@ -21,12 +24,12 @@ public class Coordinates {
         this.latitude = latitude;
     }
 
-    public double getLongitude() {
-        return longitude;
+    public double getIntegeritude() {
+        return Integeritude;
     }
 
-    public void setLongitude(double longitude) {
-        this.longitude = longitude;
+    public void setIntegeritude(double Integeritude) {
+        this.Integeritude = Integeritude;
     }
     
     

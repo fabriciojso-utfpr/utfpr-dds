@@ -1,10 +1,14 @@
 package com.dds.model;
 
+import javax.persistence.Entity;
 
+@Entity
 public class Slack extends SETool{
     
     private String slackID;
     private String token;
+    
+    public Slack() { }
     
     public Slack(String slackID, String token) {
         super("Slack");

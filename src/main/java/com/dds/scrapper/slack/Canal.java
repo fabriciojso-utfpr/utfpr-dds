@@ -1,6 +1,7 @@
 package com.dds.scrapper.slack;
 
 import allbegray.slack.type.Message;
+import com.dds.model.TypeChannel;
 import java.util.HashMap;
 import java.util.List;
 import org.apache.commons.codec.digest.DigestUtils;
@@ -12,9 +13,9 @@ public class Canal {
     protected String nome;
     protected HashMap<String, String> hosts = new HashMap<>();
     protected HashMap<String, Message> mensagens = new HashMap<>();
-    protected TipoCanal tipoCanal;
+    protected TypeChannel tipoCanal;
 
-    public Canal(TipoCanal tipoCanal) {
+    public Canal(TypeChannel tipoCanal) {
         this.tipoCanal = tipoCanal;
     }
     
@@ -51,11 +52,11 @@ public class Canal {
     }
 
 
-    public TipoCanal getTipoCanal() {
+    public TypeChannel getTipoCanal() {
         return tipoCanal;
     }
 
-    public void setTipoCanal(TipoCanal tipoCanal) {
+    public void setTipoCanal(TypeChannel tipoCanal) {
         this.tipoCanal = tipoCanal;
     }
 

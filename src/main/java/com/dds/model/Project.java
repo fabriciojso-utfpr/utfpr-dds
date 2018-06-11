@@ -1,30 +1,39 @@
 package com.dds.model;
 
-import com.dds.model.CommunicationUnit;
 import java.util.ArrayList;
+import java.util.List;
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.OneToMany;
 
+@Entity
 public class Project {
     
-    private Long id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Integer id;
     private String description;
-    private ArrayList<Site> sites;
-    private ArrayList<SETool> seTools;
-    private ArrayList<CommunicationUnit> communicationUnits;
-
+    
+    @ManyToMany(cascade = CascadeType.MERGE)
+    private List<Site> sites  = new ArrayList<>();
+    
+    public Project() { }
+    
     public Project(String description) {
-        this.sites = new ArrayList<>();
-        this.seTools = new ArrayList<>();
-        this.communicationUnits = new ArrayList<>();
-        
         this.description = description;
     }
 
     
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
     
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -40,44 +49,11 @@ public class Project {
         this.sites.add(site);
     }
 
-    public ArrayList<Site> getSites() {
+    public List<Site> getSites() {
         return sites;
     }
 
-    public void setSites(ArrayList<Site> sites) {
+    public void setSites(List<Site> sites) {
         this.sites = sites;
     }
-
-    public ArrayList<SETool> getSETools() {
-        return seTools;
-    }
-
-    public void setSETools(ArrayList<SETool> seTools) {
-        this.seTools = seTools;
-    }
-    
-    public void addSETool(SETool seTool){
-        this.seTools.add(seTool);
-    }
-
-    public ArrayList<SETool> getSeTools() {
-        return seTools;
-    }
-
-    public void setSeTools(ArrayList<SETool> seTools) {
-        this.seTools = seTools;
-    }
-
-    public ArrayList<CommunicationUnit> getCommunicationUnits() {
-        return communicationUnits;
-    }
-
-    public void setCommunicationUnits(ArrayList<CommunicationUnit> communicationUnits) {
-        this.communicationUnits = communicationUnits;
-    }
-    
-    public void addCommunicationUnit(CommunicationUnit communicationUnit) {
-        this.communicationUnits.add(communicationUnit);
-    }
-
 }

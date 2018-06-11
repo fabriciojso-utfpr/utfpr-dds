@@ -8,29 +8,33 @@ import javax.persistence.*;
 public class CommunicationUnit {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Integer id;
 
-    @ManyToMany(mappedBy = "communicationUnit")
-    private List<Message> messages = new ArrayList<>();
+    @OneToMany(cascade = CascadeType.MERGE)
+    private List<MessageItem> messages = new ArrayList<>();
 
+    @ManyToMany(cascade = CascadeType.MERGE)
     private List<Collaborator> hosts = new ArrayList<>();
-
+    
+    @Enumerated(EnumType.STRING) 
     private TypeChannel type;
+    
+    public CommunicationUnit() { }
 
     public CommunicationUnit(TypeChannel type) {
         this.type = type;
     }
 
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public List<Message> getMessages() {
+    public List<MessageItem> getMessages() {
         return messages;
     }
 
-    public void setMessages(List<Message> messages) {
+    public void setMessages(List<MessageItem> messages) {
         this.messages = messages;
     }
 
@@ -54,7 +58,7 @@ public class CommunicationUnit {
         this.hosts.add(host);
     }
 
-    public void addMessage(Message message) {
+    public void addMessage(MessageItem message) {
         this.messages.add(message);
     }
 

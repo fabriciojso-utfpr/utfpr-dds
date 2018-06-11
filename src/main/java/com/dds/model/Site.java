@@ -2,42 +2,59 @@ package com.dds.model;
 
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.List;
+import javax.persistence.CascadeType;
+import javax.persistence.Embedded;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+import javax.persistence.OneToMany;
 
+@Entity
 public class Site {
     
-    private Long id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Integer id;
+    
     private String description;
     private Calendar birth;
+    
+    @Embedded
     private Coordinates geocoors;
-    private ArrayList<Collaborator> collaborators;
+    
+    @ManyToMany(cascade = CascadeType.MERGE)
+    private List<Collaborator> collaborators = new ArrayList<>();
+    
 
+    public Site() { }
+    
     public Site(String description, Calendar birth, Coordinates geocoors) {
         this.description = description;
         this.birth = birth;
         this.geocoors = geocoors;
-        this.collaborators = new ArrayList<>();
     }
 
-    public ArrayList<Collaborator> getCollaborators() {
+    public List<Collaborator> getCollaborators() {
         return collaborators;
     }
 
-    public void setCollaborators(ArrayList<Collaborator> collaborators) {
+    public void setCollaborators(List<Collaborator> collaborators) {
         this.collaborators = collaborators;
     }
     
     public void addCollaborator(Collaborator collaborator){
         this.collaborators.add(collaborator);
     }
-    
-    
-
-    
-    public Long getId() {
+     
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

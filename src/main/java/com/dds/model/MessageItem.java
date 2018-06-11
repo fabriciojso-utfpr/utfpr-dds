@@ -1,35 +1,53 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package com.dds.model;
 
-
 import java.util.Calendar;
-import java.util.List;
+import javax.persistence.CascadeType;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
+import javax.persistence.Temporal;
 
+@Entity
+public class MessageItem {
 
-class Message {
-    
-    private Long id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Integer id;
+
+    @ManyToOne(cascade = CascadeType.MERGE)
     private SETool seTool;
-    private Collaborator collaborator;
-    private Content content;
-    private Calendar datetime;
-    
-    @ManyToOne
-    private CommunicationUnit communicationUnit;
 
-    public Message(SETool seTool, Collaborator collaborator, Content content, Calendar datetime) {
-        this.seTool = seTool;
+    @ManyToOne(cascade = CascadeType.MERGE)
+    private Collaborator collaborator;
+
+    @ManyToOne(cascade = CascadeType.MERGE)
+    private Content content;
+
+    @Temporal(javax.persistence.TemporalType.TIMESTAMP)
+    private Calendar datetime;
+
+    public MessageItem() {
+    }
+
+    public MessageItem(SETool sETool, Collaborator collaborator, Content content, Calendar datetime) {
+        this.seTool = sETool;
         this.collaborator = collaborator;
         this.content = content;
         this.datetime = datetime;
     }
-    
-    public Long getId() {
+
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -64,5 +82,4 @@ class Message {
     public void setDatetime(Calendar datetime) {
         this.datetime = datetime;
     }
-    
 }

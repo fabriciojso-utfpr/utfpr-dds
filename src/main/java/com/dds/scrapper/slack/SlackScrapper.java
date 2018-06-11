@@ -16,19 +16,7 @@ public class SlackScrapper {
         this.project = project;
     }
     
-    public HashMap<String, Canal> build(){
-        this.project.getSites().forEach((Site site) -> {
-             site.getCollaborators().forEach((Collaborator collaborator) -> {
-               collaborator.getTools().stream().filter((t) -> {
-                     return (t instanceof Slack);
-                 }).forEach((item) -> {
-                    Slack slack = (Slack) item;
-                    ChannelScrapper cs = new ChannelScrapper(slack.getToken());
-                 });
-             });
-        });
-        
-        return ChannelScrapper.getChannels();
-    }
+
+    
     
 }
