@@ -1,9 +1,12 @@
 package com.dds.views;
 
+import com.dds.DAO.CommunicationUnitDAO;
 import com.dds.DAO.ProjectDAO;
 import com.dds.DAO.SiteDAO;
+import com.dds.model.CommunicationUnit;
 import com.dds.model.Project;
 import com.dds.model.Site;
+import com.dds.service.CaptureMessages;
 import com.dds.util.AlertUtil;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +18,6 @@ public class FormProjetos extends javax.swing.JFrame {
     private Project project = null;
     private ProjectDAO projectDAO = new ProjectDAO();
     private SiteDAO siteDAO = new SiteDAO();
-
 
     public FormProjetos() {
         initComponents();
@@ -194,10 +196,6 @@ public class FormProjetos extends javax.swing.JFrame {
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
-    private void btHabilitarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btHabilitarActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_btHabilitarActionPerformed
-
     private void btGerenciarSitesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btGerenciarSitesActionPerformed
         new FormSites().setVisible(true);
         this.setVisible(false);
@@ -232,6 +230,20 @@ public class FormProjetos extends javax.swing.JFrame {
         new GerenciarProjetos().setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_btSalvarActionPerformed
+
+    private void btHabilitarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btHabilitarActionPerformed
+        if (this.project.getId() != null) {
+            CaptureMessages captureMessages = new CaptureMessages(project);
+            CommunicationUnitDAO communicationUnitDAO = new CommunicationUnitDAO();
+            communicationUnitDAO.truncateTables();
+            for (CommunicationUnit c : captureMessages.capture()) {
+                communicationUnitDAO.save(c);
+            }
+            AlertUtil.alert("Sincronização feita com sucesso!");
+        } else {
+            AlertUtil.alert("Salve o projeto antes de sincronizar as mensagens!");
+        }
+    }//GEN-LAST:event_btHabilitarActionPerformed
 
     /**
      * @param args the command line arguments
