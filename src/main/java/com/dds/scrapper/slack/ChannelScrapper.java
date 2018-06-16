@@ -33,8 +33,9 @@ public class ChannelScrapper {
 
     private void setGroupChannels() {
         api.getGroupList().forEach((group) -> {
+         
             this.addCanal(TypeChannel.GROUP, group.getId(), group.getPurpose().getValue(),
-                    api.getGroupHistory(group.getId()).getMessages(),
+                    api.getGroupHistory(group.getId(), 1000).getMessages(),
                     group.getMembers()
             );
         });
@@ -43,7 +44,7 @@ public class ChannelScrapper {
     private void setDirectChannels() {
         api.getDirectMessageChannelList().forEach((direct) -> {
             this.addCanal(TypeChannel.DIRECT, direct.getId(), "direct_" + direct.getId(),
-                    api.getDirectMessageChannelHistory(direct.getId()).getMessages(),
+                    api.getDirectMessageChannelHistory(direct.getId(), 1000).getMessages(),
                     direct.getUser()
             );
         });
@@ -52,7 +53,7 @@ public class ChannelScrapper {
     private void setChannelChannels() {
         api.getChannelList().forEach((channel) -> {
             this.addCanal(TypeChannel.CHANNEL, channel.getId(), channel.getName(),
-                    api.getChannelHistory(channel.getId()).getMessages(),
+                    api.getChannelHistory(channel.getId(), 1000).getMessages(),
                     channel.getMembers()
             );
         });

@@ -36,7 +36,6 @@ public class CaptureMessages{
     
     
     public List<CommunicationUnit> capture() {
-
         for (Site site : project.getSites()) {
             for (Collaborator collaborator : site.getCollaborators()) {
                 for (SETool tool : collaborator.getTools()) {
@@ -66,6 +65,7 @@ public class CaptureMessages{
             Canal canal = itemCanal.getValue();
 
             CommunicationUnit communicationUnit = new CommunicationUnit(canal.getTipoCanal());
+            communicationUnit.setAlternativeId(canal.getId());
 
             for (Map.Entry<String, Message> itemMessage : canal.getMensagens().entrySet()) {
                 Message message = itemMessage.getValue();

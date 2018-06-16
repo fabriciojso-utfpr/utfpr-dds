@@ -20,6 +20,18 @@ public class CommunicationUnit {
     @Enumerated(EnumType.STRING) 
     private TypeChannel type;
     
+    private String alternativeId;
+
+    public String getAlternativeId() {
+        return alternativeId;
+    }
+
+    public void setAlternativeId(String alternativeId) {
+        this.alternativeId = alternativeId;
+    }
+    
+    
+    
     public CommunicationUnit() { }
 
     public CommunicationUnit(TypeChannel type) {
